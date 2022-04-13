@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2012-02-08T12:31:43">
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2012-02-08T12:31:43" expNo="1" name="cq_13922_100mM_1-27-2012_600" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=4.985ppm, F2=2.453ppm, MI=3.46cm, MAXI=15.75cm, PC=1.500
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="4.0535" intensity="4.79" type="0"/>
+    <Peak1D F1="4.0487" intensity="9.69" type="0"/>
+    <Peak1D F1="4.0440" intensity="5.32" type="0"/>
+    <Peak1D F1="3.6257" intensity="6.26" type="0"/>
+    <Peak1D F1="3.6094" intensity="15.00" type="0"/>
+    <Peak1D F1="3.5933" intensity="10.75" type="0"/>
+    <Peak1D F1="3.5324" intensity="13.58" type="0"/>
+    <Peak1D F1="3.5276" intensity="13.56" type="0"/>
+    <Peak1D F1="3.5157" intensity="9.65" type="0"/>
+    <Peak1D F1="3.5109" intensity="9.87" type="0"/>
+    <Peak1D F1="3.2808" intensity="5.46" type="0"/>
+    <Peak1D F1="3.2651" intensity="9.85" type="0"/>
+    <Peak1D F1="3.2495" intensity="4.57" type="0"/>
+  </PeakList1D>
+</PeakList>

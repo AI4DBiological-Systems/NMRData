@@ -1,0 +1,48 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= mfjofre
+$$ /banyo2/data/mfjofre/nmr/cq_00026-100mm-d2o-12-16-10/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2010-12-17 09:25:27.415 -0600>,<mfjofre>,<kerry>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2010-12-17 09:24:16.223 -0600,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       56 1D EC 01 B1 83 A9 D2 5F 72 2D BD F1 F7 E8 37
+       data hash MD5: 19478
+       E5 91 E2 AB 02 50 57 D4 21 34 24 34 C6 E5 B6 EE>)
+(   2,<2010-12-17 09:25:27.745 -0600>,<mfjofre>,<kerry>,<audit>,<TOPSPIN 2.1>,
+      <user comment:
+       ICON-NMR User ID: mfjofre
+       data hash MD5: 19478
+       E5 91 E2 AB 02 50 57 D4 21 34 24 34 C6 E5 B6 EE>)
+(   3,<2010-12-20 10:15:45.833 -0600>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       em LB = 1 TDeff = 16K SI = 32K 
+       data hash MD5: 32K
+       8D 55 B1 CA 71 A1 48 6D E3 EC 2F 51 5E 8C 73 B0>)
+(   4,<2010-12-20 10:15:46.922 -0600>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       30 C6 D9 F4 1A 3D C5 C8 51 B3 2B 5B 05 77 7E B9>)
+(   5,<2010-12-20 10:15:48.081 -0600>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <apk 
+       data hash MD5: 32K
+       20 7F 2C C3 43 59 1E 36 26 F3 94 99 2D 82 ED BF>)
+(   6,<2010-12-20 10:15:48.992 -0600>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       69 1A F1 3B 13 5D E0 EB 3D F2 89 BA 57 78 A1 AD>)
+(   7,<2010-12-20 10:16:04.778 -0600>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <pk fgphup PHC0 = 132.6757 PHC1 = -193 
+       data hash MD5: 32K
+       E0 3D A2 7E 97 4B 0C 45 BC 33 20 C4 AD 86 B3 C1>)
+(   8,<2010-12-20 10:16:09.752 -0600>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       25 3F 47 EA E4 33 42 F4 0F 38 97 B8 A6 4A A6 D8>)
+##END=
+
+$$ hash MD5
+$$ AA 8C D7 BA D5 D3 0B BC 45 0C 54 9F 7B 8E 58 71

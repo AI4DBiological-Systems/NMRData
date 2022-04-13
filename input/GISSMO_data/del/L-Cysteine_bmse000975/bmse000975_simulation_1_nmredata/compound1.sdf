@@ -1,0 +1,77 @@
+L-cysteine (GISSMO ID: GISSMOBM000064); date: 2020-03-16 16:56:47.168640
+ALATIS atom labels
+
+ 14 13  0  0  1  0            999 V2000
+   -0.3829   -0.9301    0.6614 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0877   -0.0706   -0.5438 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4023    1.2977   -0.5797 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5589   -0.0603   -0.5955 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1319    2.0239   -1.5277 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0996    1.7896    0.3015 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1842   -2.6436    0.6060 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4741   -0.9639    0.6937 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0297   -0.4968    1.5996 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2650   -0.5626   -1.4546 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8408    0.4643   -1.4265 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8962    0.4567    0.2194 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3854    2.6210    0.2434 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3968   -2.9254    1.8027 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+M  END
+> <NMREDATA_VERSION>
+1.1 \
+
+> <NMREDATA_LEVEL>
+0 
+
+> <NMREDATA_ID>
+ID=GISSMOBM000064 \
+DOI= \
+Record=http://gissmo.nmrfam.wisc.edu/entry/bmse000975/simulation_1/bmse000975_simulation_1_nmredata.zip \
+Path=compound1.sdf \
+
+> <NMREDATA_FORMULA>
+C3H7NO2S
+
+> <NMREDATA_ALATIS>
+InChI=1S/C3H7NO2S/c4-2(1-7)3(5)6/h2,7H,1,4H2,(H,5,6)/t2-/m0/s1
+
+> <NMREDATA_CONCENTRATION>
+100 mM
+
+> <NMREDATA_SOLVENT>
+D2O/"sodium phosphate"/"sodium azide"/DSS 100:50:500:500 %:mM:uM:uM Solvent:Buffer:Cytocide:Reference
+
+> <NMREDATA_PH>
+7.4
+
+> <NMREDATA_TEMPERATURE>
+298 K
+
+> <NMREDATA_ASSIGNMENT>
+8, 3.07809, 8 \
+9, 3.01407, 9 \
+10, 3.95589, 10 \
+
+> <NMREDATA_J>
+8, 9, -14.965097 \
+8, 10, 5.796104 \
+9, 10, 4.204128 \
+
+> <NMREDATA_1D_1H>
+Larmor=600.13
+Spectrum_Location=file:./1H/
+
+$$$$

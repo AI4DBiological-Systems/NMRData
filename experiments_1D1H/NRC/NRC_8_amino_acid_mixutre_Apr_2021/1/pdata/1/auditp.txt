@@ -1,0 +1,47 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\data\HHT-Nam\Nam/temp/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-04-28 14:37:53.429 -0400>,<nmrsu>,<BRUKER600>,<go>,<TOPSPIN 3.2>,
+      <created by zg
+	started at 2021-04-28 14:26:00.554 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       D6 BE CA F9 E8 EE 18 CC 0D 59 24 BE 71 F4 B1 C0
+       data hash MD5: 32K
+       55 68 5B 8B 4A 92 9B D8 72 6D F3 08 4A 8E AE 02>)
+(   2,<2021-04-28 14:42:01.344 -0400>,<nmrsu>,<BRUKER600>,<proc1d>,<TOPSPIN 3.2>,
+      <Start of raw data processing
+       efp LB = 0.5 FT_mod = 6 PKNL = 1 PHC0 = 151.9492 PHC1 = -56.45541 SI = 32K 
+       data hash MD5: 32K
+       66 16 A7 53 83 0E 84 AB 26 38 75 D0 29 57 82 74>)
+(   3,<2021-04-28 14:42:16.039 -0400>,<nmrsu>,<BRUKER600>,<proc1d>,<TOPSPIN 3.2>,
+      <pk fgphup PHC0 = -42.4 PHC1 = 0 
+       data hash MD5: 32K
+       05 B8 AC 32 A0 4D FD 00 6D A8 C8 EF B5 73 36 EA>)
+(   4,<2021-04-28 15:38:16.036 -0400>,<nmrsu>,<BRUKER600>,<audit>,<TOPSPIN 3.2>,
+      <user comment:
+       TITLE=Sample:1  ---  1mM
+       200uL of 1mM 7-AAs + D-glucose + 5ul 0.1% DSS in d2o
+       AAs stock in distilled water
+       3-mm tube, 25C, BBO, 600MH
+       
+       by NHKTITLE_END
+       data hash MD5: 32K
+       05 B8 AC 32 A0 4D FD 00 6D A8 C8 EF B5 73 36 EA>)
+(   5,<2021-04-28 15:39:13.428 -0400>,<nmrsu>,<BRUKER600>,<audit>,<TOPSPIN 3.2>,
+      <user comment:
+       TITLE=Sample:1  ---  1.0 mM
+       200uL of 1mM 7-AAs + D-glucose + 5ul 0.1% DSS in d2o
+       AAs stock in distilled water
+       3-mm tube, 25C, BBO, 600MH
+       
+       by NHKTITLE_END
+       data hash MD5: 32K
+       05 B8 AC 32 A0 4D FD 00 6D A8 C8 EF B5 73 36 EA>)
+##END=
+
+$$ hash MD5
+$$ 74 5B 98 5F 80 C3 FC 80 2E 7E 62 85 1B D3 7F 57

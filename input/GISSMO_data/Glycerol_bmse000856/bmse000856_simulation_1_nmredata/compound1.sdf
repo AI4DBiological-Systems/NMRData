@@ -1,0 +1,82 @@
+Glycerol (GISSMO ID: GISSMOBM000029); date: 2020-03-16 16:54:26.321152
+ALATIS atom labels
+
+ 14 13  0  0  0  0            999 V2000
+    1.3337   -0.4363   -0.1003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7638    1.0477   -0.0979 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2121   -0.3952   -0.0844 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8050   -1.7788   -0.1100 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1873    1.0470   -0.1096 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6817   -1.0887    1.0714 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7193    0.0661   -0.9898 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7359    0.0655    0.7822 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4186    1.5799   -0.9874 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4249    1.5940    0.7851 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5852   -0.9237   -0.9664 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7822   -1.7044   -0.1047 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4422    1.9927   -0.1048 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6603   -1.0657    1.0166 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  1  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  2  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+M  END
+> <NMREDATA_VERSION>
+1.1 \
+
+> <NMREDATA_LEVEL>
+0 
+
+> <NMREDATA_ID>
+ID=GISSMOBM000029 \
+DOI= \
+Record=http://gissmo.nmrfam.wisc.edu/entry/bmse000856/simulation_1/bmse000856_simulation_1_nmredata.zip \
+Path=compound1.sdf \
+
+> <NMREDATA_FORMULA>
+C3H8O3
+
+> <NMREDATA_ALATIS>
+InChI=1S/C3H8O3/c4-1-3(6)2-5/h3-6H,1-2H2
+
+> <NMREDATA_CONCENTRATION>
+100 mM
+
+> <NMREDATA_SOLVENT>
+D2O/"sodium phosphate"/"sodium azide"/DSS 100:50:500:0.1 %:mM:uM:% Solvent:Buffer:Cytocide:Reference
+
+> <NMREDATA_PH>
+7.4
+
+> <NMREDATA_TEMPERATURE>
+298 K
+
+> <NMREDATA_ASSIGNMENT>
+7, 3.63865, 7 \
+8, 3.54779, 8 \
+9, 3.54779, 9 \
+10, 3.63865, 10 \
+11, 3.77115, 11 \
+
+> <NMREDATA_J>
+7, 8, -11.858646 \
+7, 11, 4.559772 \
+8, 11, 6.576742 \
+9, 10, -11.858646 \
+9, 11, 6.576742 \
+10, 11, 4.559772 \
+
+> <NMREDATA_1D_1H>
+Larmor=600.13
+Spectrum_Location=file:./1H/
+
+$$$$

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-06-07T14:14:43" expNo="1" name="bmse000029-d2o-0.5mM-6-7-2011" owner="" procNo="1" source="/banyo2">
+      <PeakPickDetails>F1=3.823ppm, F2=3.648ppm, MI=0.08cm, MAXI=0.26cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.7722" intensity="0.1" type="0"/>
+    <Peak1D F1="3.76" intensity="0.21" type="0"/>
+    <Peak1D F1="3.748" intensity="0.1" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-06-07T14:14:43" expNo="1" name="bmse000029-d2o-0.5mM-6-7-2011" owner="" procNo="1" source="/banyo2">
+      <PeakPickDetails>F1=3.312ppm, F2=3.204ppm, MI=0.15cm, MAXI=0.40cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.2459" intensity="0.17" type="0"/>
+    <Peak1D F1="3.2321" intensity="0.37" type="0"/>
+    <Peak1D F1="3.2184" intensity="0.18" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-06-07T14:14:43" expNo="1" name="bmse000029-d2o-0.5mM-6-7-2011" owner="" procNo="1" source="/banyo2">
+      <PeakPickDetails>F1=1.935ppm, F2=1.880ppm, MI=0.04cm, MAXI=0.17cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.9336" intensity="0.04" type="0"/>
+    <Peak1D F1="1.9299" intensity="0.05" type="0"/>
+    <Peak1D F1="1.9211" intensity="0.08" type="0"/>
+    <Peak1D F1="1.9155" intensity="0.12" type="0"/>
+    <Peak1D F1="1.9098" intensity="0.09" type="0"/>
+    <Peak1D F1="1.9028" intensity="0.12" type="0"/>
+    <Peak1D F1="1.8983" intensity="0.11" type="0"/>
+    <Peak1D F1="1.8857" intensity="0.06" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-06-07T14:14:43" expNo="1" name="bmse000029-d2o-0.5mM-6-7-2011" owner="" procNo="1" source="/banyo2">
+      <PeakPickDetails>F1=1.803ppm, F2=1.568ppm, MI=0.02cm, MAXI=0.09cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.746" intensity="0.03" type="0"/>
+    <Peak1D F1="1.7319" intensity="0.04" type="0"/>
+    <Peak1D F1="1.7193" intensity="0.05" type="0"/>
+    <Peak1D F1="1.714" intensity="0.04" type="0"/>
+    <Peak1D F1="1.7062" intensity="0.04" type="0"/>
+    <Peak1D F1="1.6999" intensity="0.05" type="0"/>
+    <Peak1D F1="1.6865" intensity="0.04" type="0"/>
+    <Peak1D F1="1.6742" intensity="0.02" type="0"/>
+    <Peak1D F1="1.6613" intensity="0.04" type="0"/>
+    <Peak1D F1="1.6483" intensity="0.05" type="0"/>
+    <Peak1D F1="1.6403" intensity="0.04" type="0"/>
+    <Peak1D F1="1.6341" intensity="0.04" type="0"/>
+    <Peak1D F1="1.6276" intensity="0.04" type="0"/>
+    <Peak1D F1="1.6195" intensity="0.03" type="0"/>
+    <Peak1D F1="1.6149" intensity="0.03" type="0"/>
+    <Peak1D F1="1.6007" intensity="0.02" type="0"/>
+  </PeakList1D>
+</PeakList>

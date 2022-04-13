@@ -1,0 +1,51 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= mfjofre
+$$ /opt/topspin216/data/mfjofre/nmr/cq_00110-d2o-.5mM-6-6-2011/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2011-06-06 10:59:36.636 -0500>,<mfjofre>,<kerry>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2011-06-06 10:44:13.283 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       45 42 F7 09 BA B6 CE 68 86 14 56 98 E8 68 CF 4D
+       data hash MD5: 19478
+       AD 32 3F 23 D0 1B 48 68 23 85 79 05 8F C6 6F 0C>)
+(   2,<2011-06-06 10:59:46.082 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       em LB = 0.3 TDeff = 16K SI = 32K 
+       data hash MD5: 32K
+       1A 11 C8 B1 5A AD D0 CE AE 63 54 CD 36 FD DE 50>)
+(   3,<2011-06-06 10:59:46.334 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       6A 2B 33 09 0D C2 EF DE CB E4 BE 6A C2 4E 40 C3>)
+(   4,<2011-06-06 10:59:47.129 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <apk 
+       data hash MD5: 32K
+       E3 B9 AA 2B D3 5D 37 17 2B 23 B0 0A 02 B0 3D DA>)
+(   5,<2011-06-06 10:59:47.381 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       0A 2D 84 B9 2E AE 4E 24 86 55 65 E0 C1 E4 2A 97>)
+(   6,<2011-06-06 11:43:08.172 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <pk fgphup PHC0 = 140.8049 PHC1 = -207.9625 
+       data hash MD5: 32K
+       5D 8B 97 C0 55 C6 8A A2 29 64 4F 34 34 4B 1A C8>)
+(   7,<2011-06-06 11:43:27.829 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       72 04 C1 A7 6A 36 B6 46 FC 46 A1 7F 26 B8 79 BE>)
+(   8,<2011-06-06 11:43:46.696 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       D5 EA 2C 22 1E A6 D3 4B FA 1F 81 49 FA 11 60 49>)
+(   9,<2011-06-06 12:11:25.730 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <pk fgphup PHC0 = -0.3186256 PHC1 = 0.3625 
+       data hash MD5: 32K
+       A7 78 57 F1 0F 03 BC C5 7F 2A 54 B9 A3 E2 17 92>)
+##END=
+
+$$ hash MD5
+$$ C4 AD 3C C1 65 8A 66 48 91 F1 A8 CB B0 7C BD 89

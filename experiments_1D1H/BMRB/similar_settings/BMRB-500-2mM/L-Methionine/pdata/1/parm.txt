@@ -1,0 +1,38 @@
+NAME     bmse000044-d2o-2mM-6-8-2011                
+EXPNO                 1                
+PROCNO                1                
+Date_          20110608                
+Time              10.54                
+INSTRUM           spect                
+PROBHD   5 mm CPTXO 13C                
+PULPROG          zgcppr                
+TD                19478                
+SOLVENT             D2O                
+NS                   32                
+DS                    2                
+SWH            6493.506 Hz             
+FIDRES         0.333376 Hz             
+AQ            1.4998560 sec            
+RG                  203                
+DW               77.000 usec           
+DE                30.00 usec           
+TE                289.9 K              
+D1           2.00000000 sec            
+D12          0.00002000 sec            
+TD0                   1                
+
+======== CHANNEL f1 ========
+NUC1                 1H                
+P1                15.00 usec           
+PL1                0.75 dB             
+PL9               50.81 dB             
+PL1W        22.40298462 W              
+PL9W         0.00022096 W              
+SFO1        499.8423526 MHz            
+SI                32768                
+SF          499.8398890 MHz            
+WDW                  EM                
+SSB                   0                
+LB                 0.30 Hz             
+GB                    0                
+PC                 1.00                

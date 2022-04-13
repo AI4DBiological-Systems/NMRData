@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 3	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nrc-bri-600
+$$ 2011-10-20 10:30:20.252 -0400  nrc-bri-600@NRC-BRI-600-HP
+$$ C:/BRI/irena/data/IE/nmr/hek293_june1/5/pdata/1/assocs
+$$ process C:\Bruker\TopSpin3.0\prog\mod\dataserver.exe
+##$MULTDISP= <C:/BRI/irena/data/IE/nmr/hek293_june1/1/pdata/1|C:/BRI/irena/data/IE/nmr/hek293_june1/7/pdata/1|C:/BRI/irena/data/IE/nmr/hek293_june1/8/pdata/1|C:/BRI/irena/data/IE/nmr/hek293_june1/14/pdata/1>
+##END=

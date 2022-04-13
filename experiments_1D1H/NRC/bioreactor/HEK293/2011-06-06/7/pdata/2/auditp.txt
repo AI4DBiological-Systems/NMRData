@@ -1,0 +1,27 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nrc-bri-600
+$$ C:\BRI\irena\data\IE\nmr/hek293_june1/7/pdata/2/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2011-06-06 16:36:54.783 -0400>,<nrc-bri-600>,<NRC-BRI-600-HP>,<go>,<TOPSPIN 3.0>,
+      <created by zg
+	started at 2011-06-06 16:33:48.706 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       DB 12 05 52 13 84 80 75 5D 25 97 6E 12 EE 03 F0
+       data hash MD5: 16K
+       B3 FF F5 D1 D5 69 B3 16 4E 14 3C 59 BB 4A A3 4B>)
+(   2,<2011-10-20 09:48:54.871 -0400>,<nrc-bri-600>,<NRC-BRI-600-HP>,<proc1d>,<TOPSPIN 3.0>,
+      <Start of raw data processing
+       gm LB = -0.8 GB = 0.4 SI = 64K 
+       data hash MD5: 64K
+       81 B0 46 53 FC 82 5A 33 DB 7F 09 75 86 08 38 3F>)
+(   3,<2011-10-20 09:48:55.573 -0400>,<nrc-bri-600>,<NRC-BRI-600-HP>,<proc1d>,<TOPSPIN 3.0>,
+      <fp FT_mod = 6 PKNL = 1 SI = 64K PHC0 = 131.0334 PHC1 = 3.349999 
+       data hash MD5: 64K
+       7D 95 DD 05 E2 33 3A DD F9 4D 29 0D C8 1F 02 4D>)
+##END=
+
+$$ hash MD5
+$$ 5D 04 E2 93 12 93 4A E6 F3 79 BF 32 1A F5 15 26

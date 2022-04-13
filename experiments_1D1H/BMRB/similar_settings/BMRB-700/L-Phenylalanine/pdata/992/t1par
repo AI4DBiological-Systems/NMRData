@@ -1,0 +1,46 @@
+##TITLE= Parameter file, TOPSPIN		Version 2.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 11	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= bearden
+$$ 2012-12-01 00:44:33.019 -0500  bearden@Bruker700
+$$ /opt/topspin/data/bmrb/nmr/bmrb_batch06_121130.Auto01/102/pdata/992/t1par
+$$ process /opt/topspin/prog/mod/t1
+##$BIGDEL= 100
+##$CALCDN= yes
+##$COMPNO= 2
+##$CONV= 1e-05
+##$CURSOR= 1
+##$DRIFT= 5
+##$EDGUESS= 0
+##$EDPARM= 0
+##$FCTTYPE= 4
+##$FIDNUMB= 0
+##$FITT1T2= 0
+##$FITTYPE= 0
+##$GAMM= 10000
+##$GRADIEN= 1
+##$GUESSES= (0..23)
+0.75 10 0.25 100 1 1 1 1 1 1 1 1 0.1 1 0.1 10 1 1 1 1 1 1 1 1
+##$INC= 1
+##$INTRNG= 1
+##$LISTINC= 0.001
+##$LISTTYP= <vdlist>
+##$LITDEL= 10
+##$MAXPNTS= 12
+##$NUMPNTS= 30
+##$NUMTERM= 2
+##$PARM= (0..11)
+1.27954629862888 2.70817953172903 0.125725049941353 9.32832383219155 0
+0 0 0 0 0 0 0
+##$PDTYP= <pd>
+##$REGIONS= 2
+##$SHOWINT= yes
+##$SHOWPP= yes
+##$START= 1
+##$X_END= 30
+##$X_START= 1
+##$Y_END= 3.398527e+08
+##$Y_START= 0
+##END=

@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TOPSPIN		Version 2.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 4	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= mfjofre
+$$ 2011-06-21 14:04:48.874 -0500  mfjofre@watusi.nmrfam.wisc.edu
+$$ /banyo2/data/mfjofre/nmr/2bmse000048-d2o-0.5mM-6-19-2011/1/pdata/1/assocs
+$$ process /opt/topspin/prog/mod/dataserver
+##$MULTDISP= </banyo2/data/mfjofre/nmr/bmse000048-d2o-0.5mM-6-14-2011/1/pdata/1>
+##END=

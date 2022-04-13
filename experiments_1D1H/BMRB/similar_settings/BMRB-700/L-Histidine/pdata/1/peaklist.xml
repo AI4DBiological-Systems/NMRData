@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2012-12-14T10:03:25">
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2012-12-14T10:03:25" expNo="103" name="bmrb_batch06_121130.Auto01" owner="" procNo="1" source="/nmrfam_data/mfjofre/nmr">
+      <PeakPickDetails>F1=9.137ppm, F2=6.345ppm, MI=3.78cm, MAXI=40.42cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="7.8284" intensity="28.71" type="0"/>
+    <Peak1D F1="7.8272" intensity="29.64" type="0"/>
+    <Peak1D F1="7.0668" intensity="31.67" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2012-12-14T10:03:25" expNo="103" name="bmrb_batch06_121130.Auto01" owner="" procNo="1" source="/nmrfam_data/mfjofre/nmr">
+      <PeakPickDetails>F1=4.707ppm, F2=2.999ppm, MI=3.55cm, MAXI=26.71cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.9833" intensity="19.48" type="0"/>
+    <Peak1D F1="3.9764" intensity="21.68" type="0"/>
+    <Peak1D F1="3.9721" intensity="22.60" type="0"/>
+    <Peak1D F1="3.9652" intensity="20.60" type="0"/>
+    <Peak1D F1="3.2463" intensity="14.36" type="0"/>
+    <Peak1D F1="3.2394" intensity="14.37" type="0"/>
+    <Peak1D F1="3.2241" intensity="22.38" type="0"/>
+    <Peak1D F1="3.2173" intensity="21.61" type="0"/>
+    <Peak1D F1="3.1491" intensity="24.73" type="0"/>
+    <Peak1D F1="3.1378" intensity="23.92" type="0"/>
+    <Peak1D F1="3.1269" intensity="15.86" type="0"/>
+    <Peak1D F1="3.1157" intensity="15.49" type="0"/>
+  </PeakList1D>
+</PeakList>

@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= mfjofre
+$$ /opt/topspin216/data/mfjofre/nmr/bmse000051-d2o-0.5mM-7-24-11-pH-7.70/1/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2011-07-24 12:06:11.390 -0500>,<mfjofre>,<kerry>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2011-07-24 11:50:48.068 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       45 42 F7 09 BA B6 CE 68 86 14 56 98 E8 68 CF 4D
+       data hash MD5: 19478
+       16 F1 DB 7C ED 54 A6 F8 B7 5E 02 34 38 D0 13 63>)
+##END=
+
+$$ hash MD5
+$$ 5B 93 08 31 30 3E A0 F1 BE 10 B5 C1 50 EA 89 C2

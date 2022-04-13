@@ -1,0 +1,36 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= bearden
+$$ /opt/topspin/data/bmrb/nmr/bmrb_batch05_120905.Auto01/110/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2012-09-06 00:31:16.054 -0400>,<bearden>,<Bruker700>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2012-09-06 00:26:51.514 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C4 71 E1 E6 FA B8 8C 30 2D F3 21 17 CF 6A 43 E0
+       data hash MD5: 64K
+       CB D8 53 D9 58 17 49 9E 30 69 53 B1 5C A4 FB B5>)
+(   2,<2012-09-06 00:31:23.089 -0400>,<bearden>,<Bruker700>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 4.5 SI = 64K 
+       data hash MD5: 64K
+       B6 8C EA 02 38 83 A3 2E 77 28 EF EB 1A B3 EE 22>)
+(   3,<2012-09-06 00:31:23.771 -0400>,<bearden>,<Bruker700>,<proc1d>,<TOPSPIN 2.1>,
+      <pk PHC0 = 242.4408 PHC1 = 0 
+       data hash MD5: 64K
+       BC 09 C9 16 52 64 60 F4 15 9D 57 05 23 1A A0 04>)
+(   4,<2012-09-06 00:31:24.198 -0400>,<bearden>,<Bruker700>,<audit>,<TOPSPIN 2.1>,
+      <user comment:
+       ICON-NMR User ID: bmrb
+       data hash MD5: 64K
+       BC 09 C9 16 52 64 60 F4 15 9D 57 05 23 1A A0 04>)
+(   5,<2012-09-06 09:29:13.288 -0400>,<bearden>,<Bruker700>,<proc1d>,<TOPSPIN 2.1>,
+      <pk fgphup PHC0 = 2.88125 PHC1 = 0 
+       data hash MD5: 64K
+       DE E1 D2 56 6F F7 73 1C F2 0D 3F 0A 0D 3C 7E ED>)
+##END=
+
+$$ hash MD5
+$$ 68 21 D5 5E AF 2F 99 42 86 22 CC 58 68 EF 76 D1

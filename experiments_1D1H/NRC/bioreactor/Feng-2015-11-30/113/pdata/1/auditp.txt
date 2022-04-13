@@ -1,0 +1,29 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Feng's Group
+$$ C:/Bruker/TopSpin3.0/data/Feng's Group/nmr/px151130FB#1auto/113/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2015-11-30 15:22:29.528 -0500>,<Feng's Group>,<NRC-BRI-600-HP>,<go>,<TOPSPIN 3.0>,
+      <created by zg
+	started at 2015-11-30 15:19:24.184 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       51 FF 96 8C 9D 7B D7 D6 99 01 5B 1D 5C 19 91 BC
+       data hash MD5: 96152
+       98 14 F8 1F B6 C0 42 99 D7 EF F3 4A DC AB 27 FB>)
+(   2,<2015-11-30 15:23:42.489 -0500>,<Feng's Group>,<NRC-BRI-600-HP>,<proc1d>,<TOPSPIN 3.0>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = -320.793 PHC1 = 0 SI = 128K 
+       data hash MD5: 128K
+       F9 1E 6F BF 5F 54 2B 87 6C 98 4B 47 84 31 7B 4A>)
+(   3,<2015-12-01 09:57:28.883 -0500>,<Feng's Group>,<NRC-BRI-600-HP>,<audit>,<TOPSPIN 3.0>,
+      <user comment:
+       TITLE=300uL of Influenza 17 Sep 2015, Fed-Batch 1, RT: 13d + 50uL 22mM DSS-d6 in D2O + 250uL 5.15mM Caffeine (prepared by PX on Nov. 30, 2015) at 298K
+       HHTexp1 H2O+D2O {C:\Bruker\TopSpin3.0} {Feng's Group} 11TITLE_END
+       data hash MD5: 128K
+       F9 1E 6F BF 5F 54 2B 87 6C 98 4B 47 84 31 7B 4A>)
+##END=
+
+$$ hash MD5
+$$ 0C C4 EB A8 60 12 AF 67 E8 3B 69 7A B4 19 D0 D7

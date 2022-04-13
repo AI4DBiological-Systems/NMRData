@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2012-09-14T08:55:57">
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2012-09-14T08:55:57" expNo="101" name="temporary" owner="" procNo="1" source="/home/mfjofre/Windows_Documents">
+      <PeakPickDetails>F1=3.888ppm, F2=3.644ppm, MI=2.20cm, MAXI=21.27cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.7831" intensity="5.57" type="0"/>
+    <Peak1D F1="3.7727" intensity="16.70" type="0"/>
+    <Peak1D F1="3.7623" intensity="16.82" type="0"/>
+    <Peak1D F1="3.7520" intensity="5.68" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2012-09-14T08:55:57" expNo="101" name="temporary" owner="" procNo="1" source="/home/mfjofre/Windows_Documents">
+      <PeakPickDetails>F1=1.564ppm, F2=1.386ppm, MI=23.77cm, MAXI=130.25cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.4719" intensity="100.00" type="0"/>
+    <Peak1D F1="1.4615" intensity="98.94" type="0"/>
+  </PeakList1D>
+</PeakList>

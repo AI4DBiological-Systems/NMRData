@@ -1,0 +1,17 @@
+##TITLE= Parameter file, TOPSPIN		Version 2.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ravi
+$$ 2010-03-13 00:04:58.944 -0600  ravi@kerry
+$$ /opt/topspin/data/ravi/nmr/CQ-00526-D2O-031210/1/pdata/1/outd
+$$ process /opt/topspin/prog/mod/xwish3
+##$CURPLOT= <bw2>
+##$CURPRIN= <$bw2>
+##$DFORMAT= <normdp>
+##$LAYOUT= <undefined>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##$SURQMSG= 1
+##END=

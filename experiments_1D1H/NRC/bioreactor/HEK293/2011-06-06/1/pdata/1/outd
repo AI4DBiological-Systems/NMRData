@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nrc-bri-600
+$$ 2011-06-06 09:17:45.511 -0400  nrc-bri-600@NRC-BRI-600-HP
+$$ C:\BRI\irena/hek293_june1/1/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.0\prog\mod\edparproc.exe
+##$CURPLOT= <HP LaserJet P3010 Series PCL 6>
+##$CURPRIN= <$HP LaserJet P3010 Series PCL 6>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

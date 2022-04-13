@@ -1,0 +1,38 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Feng's Group
+$$ C:/Bruker/TopSpin3.0/data/Feng's Group/nmr/px151130FB#1auto/31/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2015-11-30 12:56:10.366 -0500>,<Feng's Group>,<NRC-BRI-600-HP>,<go>,<TOPSPIN 3.0>,
+      <created by zg
+	started at 2015-11-30 12:53:01.715 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       51 FF 96 8C 9D 7B D7 D6 99 01 5B 1D 5C 19 91 BC
+       data hash MD5: 96152
+       A4 1C 23 5A 54 85 AE 2C 32 6D C9 0D 08 7A 16 A3>)
+(   2,<2015-11-30 12:56:12.628 -0500>,<Feng's Group>,<NRC-BRI-600-HP>,<audit>,<TOPSPIN 3.0>,
+      <user comment:
+       ICON-NMR User ID: Feng's Group
+       data hash MD5: 96152
+       A4 1C 23 5A 54 85 AE 2C 32 6D C9 0D 08 7A 16 A3>)
+(   3,<2015-11-30 13:09:21.443 -0500>,<Feng's Group>,<NRC-BRI-600-HP>,<proc1d>,<TOPSPIN 3.0>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = -323.493 PHC1 = 0 SI = 128K 
+       data hash MD5: 128K
+       67 36 94 67 CB 56 AE 1C 0E 9E 5F 41 9D 4B 38 A5>)
+(   4,<2015-11-30 13:22:59.571 -0500>,<Feng's Group>,<NRC-BRI-600-HP>,<proc1d>,<TOPSPIN 3.0>,
+      <pk fgphup PHC0 = -1.6 PHC1 = 0 
+       data hash MD5: 128K
+       FC B7 5B EF 45 C7 C5 8F 36 EE 00 AF 36 58 11 BB>)
+(   5,<2015-12-01 09:55:42.085 -0500>,<Feng's Group>,<NRC-BRI-600-HP>,<audit>,<TOPSPIN 3.0>,
+      <user comment:
+       TITLE=300uL of Influenza 9 Sep 2015, Fed-Batch 1, RT: 5d + 50uL 22mM DSS-d6 in D2O + 250uL 5.15mM Caffeine (prepared by PX on Nov. 30, 2015) at 298K
+       HHTexp1 H2O+D2O {C:\Bruker\TopSpin3.0} {Feng's Group} 3TITLE_END
+       data hash MD5: 128K
+       FC B7 5B EF 45 C7 C5 8F 36 EE 00 AF 36 58 11 BB>)
+##END=
+
+$$ hash MD5
+$$ 9C 2C 57 F9 65 2D 69 86 45 06 BE A1 76 E0 03 4C

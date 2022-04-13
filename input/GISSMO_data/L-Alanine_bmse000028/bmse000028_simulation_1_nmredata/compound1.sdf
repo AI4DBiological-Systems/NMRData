@@ -1,0 +1,79 @@
+L-alanine (GISSMO ID: GISSMOBM000011); date: 2020-03-16 16:27:01.372321
+ALATIS atom labels
+
+ 13 12  0  0  1  0            999 V2000
+    0.8064   -0.3393   -1.1508 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2616    0.3607    0.1157 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1887    0.3881    0.1351 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7556   -0.3209    1.3214 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8087    1.4421    0.1312 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8307   -0.6568    0.1411 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4795   -1.3805   -1.1951 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4598    0.1692   -2.0539 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8984   -0.3281   -1.1571 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6639    1.3791    0.1374 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4369    0.2104    2.1350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7767   -0.2689    1.3112 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7107   -0.6550    0.1287 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+M  END
+> <NMREDATA_VERSION>
+1.1 \
+
+> <NMREDATA_LEVEL>
+0 
+
+> <NMREDATA_ID>
+ID=GISSMOBM000011 \
+DOI= \
+Record=http://gissmo.nmrfam.wisc.edu/entry/bmse000028/simulation_1/bmse000028_simulation_1_nmredata.zip \
+Path=compound1.sdf \
+
+> <NMREDATA_FORMULA>
+C3H7NO2
+
+> <NMREDATA_ALATIS>
+InChI=1S/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)/t2-/m0/s1
+
+> <NMREDATA_CONCENTRATION>
+100 mM
+
+> <NMREDATA_SOLVENT>
+D2O/"sodium phosphate"/"sodium azide"/DSS 100:50:500:500 %:mM:uM:uM Solvent:Buffer:Cytocide:Reference
+
+> <NMREDATA_PH>
+7.4
+
+> <NMREDATA_TEMPERATURE>
+298 K
+
+> <NMREDATA_ASSIGNMENT>
+7, 1.46617, 7 \
+8, 1.46617, 8 \
+9, 1.46617, 9 \
+10, 3.76740, 10 \
+
+> <NMREDATA_J>
+7, 8, -12.500000 \
+7, 9, -12.500000 \
+7, 10, 7.298840 \
+8, 9, -12.500000 \
+8, 10, 7.298840 \
+9, 10, 7.298840 \
+
+> <NMREDATA_1D_1H>
+Larmor=400.13
+Spectrum_Location=file:./1H/
+
+$$$$

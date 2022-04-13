@@ -1,0 +1,31 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= mfjofre
+$$ /home/mfjofre/nmr/00496_600_D2O_7-17-2012/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2012-07-17 21:51:46.738 -0500>,<mfjofre>,<kurgan>,<go>,<TOPSPIN 3.0>,
+      <created by zg
+	started at 2012-07-17 21:51:01.124 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       02 AC D2 89 4A 44 D7 2B 0B D1 C6 AD 7D 1C 03 D9
+       data hash MD5: 32K
+       A0 F9 C6 C3 63 F1 BA 23 C8 12 A3 A1 73 93 4B 26>)
+(   2,<2012-07-17 21:51:49.471 -0500>,<mfjofre>,<kurgan>,<proc1d>,<TOPSPIN 3.0>,
+      <Start of raw data processing
+       ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       F3 19 D2 E9 54 D8 C7 97 2B 18 20 31 06 5B 68 A7>)
+(   3,<2012-07-17 21:51:49.776 -0500>,<mfjofre>,<kurgan>,<proc1d>,<TOPSPIN 3.0>,
+      <apk 
+       data hash MD5: 32K
+       DA AE A4 DB 40 DF FD F6 A6 2F 30 C5 0D A4 74 13>)
+(   4,<2012-07-17 21:51:49.796 -0500>,<mfjofre>,<kurgan>,<proc1d>,<TOPSPIN 3.0>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       1C FF 87 A8 7D BE A0 97 AD 4E 15 83 B5 45 AD 50>)
+##END=
+
+$$ hash MD5
+$$ 2D 90 D0 AB 28 8B E9 C4 82 53 46 76 9B BD 6F 2F

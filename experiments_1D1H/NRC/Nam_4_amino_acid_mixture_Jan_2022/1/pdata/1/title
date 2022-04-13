@@ -1,0 +1,13 @@
+** Sample-1 batch-1, 2nd RUN for sample stability test
+
+Sample #1 4-AAs, glucose in 540uL PBS buffer, 60uL NMR standard in D2O, total V = 600uL
+prepared by NHK/PX, BRI 06-09/Jan-2021
+5-mm tube 25C BBI HHT-Ottawa-600MHz
+------
+noesypr1d (presat)
+d1=30s, mixing time d8=5 ms
+O1 = 2819.81 Hz  (4.698p)
+pulsecal, P1 = 8.91 us/ -11.80 -dBW
+8*8 = 64 scans for 36 min
+------
+NHK

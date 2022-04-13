@@ -1,0 +1,49 @@
+NAME     bmrb_batch2_Dan_bearden                
+EXPNO               108                
+PROCNO                1                
+Date_          20110802                
+Time              18.25                
+INSTRUM           spect                
+PROBHD   5 mm CPTCI 1H-                
+PULPROG     noesygppr1d                
+TD                65536                
+SOLVENT         H2O+D2O                
+NS                   40                
+DS                    8                
+SWH           14005.603 Hz             
+FIDRES         0.213709 Hz             
+AQ            2.3396852 sec            
+RG                   32                
+DW               35.700 usec           
+DE                 8.93 usec           
+TE                298.0 K              
+D1           3.00000000 sec            
+D8           0.06000000 sec            
+D12          0.00002000 sec            
+D16          0.00020000 sec            
+TD0                   1                
+ZGOPTNS                                
+
+======== CHANNEL f1 ========
+NUC1                 1H                
+P0                10.86 usec           
+P1                10.86 usec           
+PL1                4.60 dB             
+PL9               57.87 dB             
+PL1W         8.79673290 W              
+PL9W         0.00004144 W              
+SFO1        700.1332989 MHz            
+
+====== GRADIENT CHANNEL =====
+GPNAM1       SMSQ10.100                
+GPNAM2       SMSQ10.100                
+GPZ1              50.00 %              
+GPZ2             -10.00 %              
+P16             1000.00 usec           
+SI                65536                
+SF          700.1299483 MHz            
+WDW                  EM                
+SSB                   0                
+LB                 0.30 Hz             
+GB                    0                
+PC                 1.00                

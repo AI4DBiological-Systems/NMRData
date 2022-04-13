@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nrc-bri-600" date="2011-09-08T15:30:44.847-04:00" expNo="5" name="hek293_june1" owner="" procNo="1" source="C:/BRI/irena/data/IE/nmr">
+      <PeakPickDetails>F1=8.609ppm, F2=6.493ppm, MI=0.03cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="7.7315" intensity="1.972120e-001" type="0"/>
+    <Peak1D F1="7.4218" intensity="6.918581e-002" type="0"/>
+    <Peak1D F1="7.4100" intensity="2.287484e-001" type="0"/>
+    <Peak1D F1="7.3975" intensity="1.920652e-001" type="0"/>
+    <Peak1D F1="7.3690" intensity="9.726089e-002" type="0"/>
+    <Peak1D F1="7.3572" intensity="1.106456e-001" type="0"/>
+    <Peak1D F1="7.3446" intensity="3.507840e-002" type="0"/>
+    <Peak1D F1="7.3162" intensity="2.501725e-001" type="0"/>
+    <Peak1D F1="7.3032" intensity="2.104508e-001" type="0"/>
+    <Peak1D F1="7.1787" intensity="1.814411e-001" type="0"/>
+    <Peak1D F1="7.1642" intensity="2.193721e-001" type="0"/>
+    <Peak1D F1="7.0260" intensity="1.981432e-001" type="0"/>
+    <Peak1D F1="6.8818" intensity="2.569600e-001" type="0"/>
+    <Peak1D F1="6.8673" intensity="2.077724e-001" type="0"/>
+  </PeakList1D>
+</PeakList>

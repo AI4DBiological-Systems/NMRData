@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Feng's Group
+$$ C:/Bruker/TopSpin3.0/data/Feng's Group/nmr/px151130FB#1auto/21/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2015-11-30 12:41:36.062 -0500>,<Feng's Group>,<NRC-BRI-600-HP>,<go>,<TOPSPIN 3.0>,
+      <created by zg
+	started at 2015-11-30 12:38:27.583 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       51 FF 96 8C 9D 7B D7 D6 99 01 5B 1D 5C 19 91 BC
+       data hash MD5: 96152
+       C1 38 93 2A 1C 91 D8 EF 4A 61 A1 93 BC 2F CD 5B>)
+(   2,<2015-11-30 12:41:38.324 -0500>,<Feng's Group>,<NRC-BRI-600-HP>,<audit>,<TOPSPIN 3.0>,
+      <user comment:
+       ICON-NMR User ID: Feng's Group
+       data hash MD5: 96152
+       C1 38 93 2A 1C 91 D8 EF 4A 61 A1 93 BC 2F CD 5B>)
+##END=
+
+$$ hash MD5
+$$ C6 55 AE 63 B2 17 9F C2 5B 34 3B 6F ED FF 23 BB

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-06-08T14:17:21" expNo="1" name="bmse000089-d2o-2mM-6-8-2011" owner="" procNo="1" source="/banyo2">
+      <PeakPickDetails>F1=3.808ppm, F2=3.097ppm, MI=5.30cm, MAXI=6.87cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.542" intensity="5.74" type="0"/>
+  </PeakList1D>
+</PeakList>

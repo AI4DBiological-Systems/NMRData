@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2022-01-13 11:47:49.205 -0500  nmrsu@BRUKER600
+$$ C:\data\HHT-Nam\Nam_service2022/temp/1/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.2\prog\mod\edparproc.exe
+##$CURPLOT= <HP LaserJet P3011/P3015 PCL6>
+##$CURPRIN= <$HP LaserJet P3011/P3015 PCL6>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/letter.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

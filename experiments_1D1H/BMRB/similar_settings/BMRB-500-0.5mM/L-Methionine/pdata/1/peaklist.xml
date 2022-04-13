@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-06-13T12:02:41.569-05:00" expNo="1" name="bmse000044-d2o-0.5mM-6-13-2011" owner="" procNo="1" source="/opt/topspin216">
+      <PeakPickDetails>F1=-0.017ppm, F2=-0.312ppm, MI=50.00cm, MAXI=10000.00cm, PC=4.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="-0.0813" intensity="100.00" type="0"/>
+  </PeakList1D>
+</PeakList>

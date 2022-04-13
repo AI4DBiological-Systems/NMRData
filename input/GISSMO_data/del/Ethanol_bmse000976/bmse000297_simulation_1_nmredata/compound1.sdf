@@ -1,0 +1,76 @@
+Ethanol (GISSMO ID: GISSMOBM000188); date: 2020-03-16 16:41:35.523639
+ALATIS atom labels
+
+  9  8  0  0  1  0            999 V2000
+   -0.5147    0.9054   -0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0078   -0.5407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4330   -0.5348   -0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1616    1.4335    0.8875 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1616    1.4335   -0.8875 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6061    0.9135   -0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3506   -1.0670    0.8867 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3506   -1.0670   -0.8867 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7044   -1.4764    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  1  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  9  1  0  0  0  0
+M  END
+> <NMREDATA_VERSION>
+1.1 \
+
+> <NMREDATA_LEVEL>
+0 
+
+> <NMREDATA_ID>
+ID=GISSMOBM000188 \
+DOI= \
+Record=http://gissmo.nmrfam.wisc.edu/entry/bmse000297/simulation_1/bmse000297_simulation_1_nmredata.zip \
+Path=compound1.sdf \
+
+> <NMREDATA_FORMULA>
+C2H6O
+
+> <NMREDATA_ALATIS>
+InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3
+
+> <NMREDATA_CONCENTRATION>
+100 mM
+
+> <NMREDATA_SOLVENT>
+D2O/"sodium phosphate"/"sodium azide"/DSS 100:50:500:500 %:mM:uM:uM Solvent:Buffer:Cytocide:Reference
+
+> <NMREDATA_PH>
+7.4
+
+> <NMREDATA_TEMPERATURE>
+298 K
+
+> <NMREDATA_ASSIGNMENT>
+4, 1.16960, 4 \
+5, 1.16960, 5 \
+6, 1.16960, 6 \
+7, 3.64079, 7 \
+8, 3.64079, 8 \
+
+> <NMREDATA_J>
+4, 5, -12.500000 \
+4, 6, -12.500000 \
+4, 7, 7.094311 \
+4, 8, 7.094311 \
+5, 6, -12.500000 \
+5, 7, 7.094311 \
+5, 8, 7.094311 \
+6, 7, 7.094311 \
+6, 8, 7.094311 \
+7, 8, -12.400000 \
+
+> <NMREDATA_1D_1H>
+Larmor=400.13
+Spectrum_Location=file:./1H/
+
+$$$$

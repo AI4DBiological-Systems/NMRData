@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-04-06T10:31:42" expNo="1" name="cq_00080-d2o-0.5mm-4-4-11" owner="" procNo="1" source="/banyo2">
+      <PeakPickDetails>F1=3.944ppm, F2=3.465ppm, MI=1.49cm, MAXI=16.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.7847" intensity="1.77" type="0"/>
+    <Peak1D F1="3.7805" intensity="1.83" type="0"/>
+    <Peak1D F1="3.7718" intensity="4.12" type="0"/>
+    <Peak1D F1="3.7631" intensity="2.39" type="0"/>
+    <Peak1D F1="3.7588" intensity="2.39" type="0"/>
+    <Peak1D F1="3.6562" intensity="9.34" type="0"/>
+    <Peak1D F1="3.6474" intensity="8.03" type="0"/>
+    <Peak1D F1="3.6327" intensity="15.0" type="0"/>
+    <Peak1D F1="3.624" intensity="12.98" type="0"/>
+    <Peak1D F1="3.5647" intensity="14.29" type="0"/>
+    <Peak1D F1="3.5516" intensity="12.83" type="0"/>
+    <Peak1D F1="3.5412" intensity="9.05" type="0"/>
+    <Peak1D F1="3.5281" intensity="7.94" type="0"/>
+  </PeakList1D>
+</PeakList>

@@ -1,0 +1,6 @@
+P    #regions in PPM
+# 2011-08-09 15:10:45 -0500  mfjofre@watusi.nmrfam.wisc.edu
+# low field   high field   mi   maxi
+  3.6224098951928996  3.531778842303007  12.818  30.925  # for region 1
+  2.2946295676009294  2.2321437049639528  1.424  12.818  # for region 2
+  1.1470492631377047  0.8808205452736448  60.425  89.723  # for region 3

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2011-12-19T11:33:41">
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-12-19T11:33:41" expNo="114" name="dan_bearden_3" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=3.976ppm, F2=3.688ppm, MI=8.84cm, MAXI=50.24cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.8593" intensity="23.78" type="0"/>
+    <Peak1D F1="3.8514" intensity="33.60" type="0"/>
+    <Peak1D F1="3.8434" intensity="24.62" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-12-19T11:33:41" expNo="114" name="dan_bearden_3" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=3.249ppm, F2=2.884ppm, MI=8.24cm, MAXI=41.80cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.1620" intensity="23.44" type="0"/>
+    <Peak1D F1="3.1543" intensity="15.16" type="0"/>
+    <Peak1D F1="3.1508" intensity="23.29" type="0"/>
+    <Peak1D F1="3.1461" intensity="16.00" type="0"/>
+    <Peak1D F1="3.1392" intensity="30.02" type="0"/>
+    <Peak1D F1="3.0600" intensity="19.35" type="0"/>
+    <Peak1D F1="3.0520" intensity="28.53" type="0"/>
+    <Peak1D F1="3.0442" intensity="18.33" type="0"/>
+    <Peak1D F1="2.9511" intensity="24.65" type="0"/>
+    <Peak1D F1="2.9441" intensity="13.06" type="0"/>
+    <Peak1D F1="2.9394" intensity="20.08" type="0"/>
+    <Peak1D F1="2.9360" intensity="13.42" type="0"/>
+    <Peak1D F1="2.9283" intensity="20.03" type="0"/>
+  </PeakList1D>
+</PeakList>

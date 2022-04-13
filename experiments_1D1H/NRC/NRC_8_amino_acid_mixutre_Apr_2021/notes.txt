@@ -1,0 +1,17 @@
+mixture contains:
+Glycine
+L-Alanine
+L-Asparagine
+L-Aspartic Acid
+L-Glutamic Acid
+L-Proline
+L-Serine
+D-Glucose
+
+All metabolites are at the same concentration relative to one another but at
+different absolute concentration.
+
+1.0   (sample 1), 0.8 (sample 2), 0.6(sample 3),  0.4 (sample 4), and 0.2 mM (sample
+5).
+
+Lots of H2O: Strong solvent peak at ~4.5-5ppm.

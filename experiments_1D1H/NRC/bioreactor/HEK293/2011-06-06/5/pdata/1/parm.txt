@@ -1,0 +1,55 @@
+
+Current Data Parameters
+NAME       hek293_june1              
+EXPNO                 5              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20110606              
+Time              16.05              
+INSTRUM           spect              
+PROBHD   5 mm PATXI 1H/              
+PULPROG          zgesgp              
+TD                16384              
+SOLVENT             D2O              
+NS                   32              
+DS                    2              
+SWH            7211.539 Hz           
+FIDRES         0.440157 Hz           
+AQ            1.1360073 sec          
+RG                 22.6              
+DW               69.333 usec         
+DE                 6.50 usec         
+TE                298.1 K            
+D1           4.00000000 sec          
+D12          0.00002000 sec          
+D16          0.00020000 sec          
+
+======== CHANNEL f1 ========
+NUC1                 1H              
+P1                 9.20 usec         
+P2                18.40 usec         
+P12             2000.00 usec         
+PLW0     0 W            
+PLW1        19.31999969 W            
+SFO1        600.2428258 MHz          
+SPNAM1     Squa100.1000              
+SPOAL1            0.500              
+SPOFFS1  0 Hz           
+SPW1         0.00163490 W            
+
+====== GRADIENT CHANNEL =====
+GPNAM1       SMSQ10.100              
+GPNAM2       SMSQ10.100              
+GPZ1              31.00 %            
+GPZ2              11.00 %            
+P16             1000.00 usec         
+
+F2 - Processing parameters
+SI                65536              
+SF          600.2399548 MHz          
+WDW                  EM              
+SSB      0              
+LB                 0.30 Hz           
+GB       0              
+PC                 1.00              
