@@ -1,427 +1,512 @@
 {
                               "Creatinine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                        "Creatine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                    "L-Arginine bmse000029": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                               "L-Arginine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                   "Succinic acid, 400 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                             "L-Isoleucine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                    "L-Methionine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                 "Dopamine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                          "L-Glutamic acid": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                  "Myo-Inositol bmse000901": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                 "Methanol": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                   "Acetylcholine, 400 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                            "D-(+)-Glucose": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                  "Ethanol": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                  "Choline": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                   "5-Hydroxy-L-tryptophan": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                     "L-Histidine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                           "Norepinephrine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                         "Glycine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                              "L-Threonine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                    "L-Arginine bmse000711": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
            "3,4-Dihydroxy-L-phenylalanine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                "L-Proline": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                          "L-Phenylalanine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                        "L-Serine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
    "L-Isoleucine, bad, missing J-coupling": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                        "Glycerol, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
               "3-Hydroxybutyrate, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                           "HEPES, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                   "Folate": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                 "L-Lysine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                            "Acetylcholine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                         "Choline, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                  "N-Alpha-Acetyl-L-Lysine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                              "L-Glutamine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                             "L-Tryptophan": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                           "Diethanolamine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                   "Purine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                          "2-Phenylethanol": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                    "HEPES": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                             "L-Asparagine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                         "Formiminoglycine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                               "DL-Alanine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                             "L-Kynurenine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                      "Putrescine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                          "L-Aspartic acid": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                "Serotonin": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                  "Glycine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                     "L-Threonine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                             "Myo-Inositol": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                "L-Leucine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                              "Epinephrine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                        "L-(+) Lactic acid": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                 "L-Serine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                  "Gamma-Aminobutyric acid": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
               "L-Phenylalanine bmse000921": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                       "L-Proline, 600 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                            "Succinic acid": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                               "L-Cysteine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                      "L-Cysteine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                  "L-Tryptophan bmse000050": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                 "Caffeine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                               "Putrescine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                        "L-Valine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                 "Creatine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                 "L-Phenylalanine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                        "Dopamine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                        "L-Lysine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                 "L-Valine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                             "L-Methionine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
           "Phenylacetylglycine bmse000658": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                      "DSS": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                    "Myo-Inositol, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                        "3-Hydroxybutyrate": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                              "L-Histidine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                 "Glycerol": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                      "Phenylacetylglycine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                    "L-Arginine bmse000919": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                    "L-Asparagine, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                       "L-Proline, 500 MHz": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                "DL-Serine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                               "Tryptamine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                          "Triethanolamine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                               "L-Tyrosine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             },
                                "L-Alanine": {
-                                               "relative amplitude threshold": 0.05,
-                                                       "maximum Δc deviation": 0.3,
-                                                        "coherence tolerance": 0.01
+                                               "simple coherence absolute tolerancel": -1.2,
+                                                       "relative amplitude threshold": 0.05,
+                                                               "maximum Δc deviation": 0.3,
+                                                                "coherence tolerance": 0.01
                                             }
 }
