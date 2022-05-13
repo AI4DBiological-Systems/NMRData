@@ -78,7 +78,7 @@
                                                         "coherence tolerance": 0.01
                                             },
                                  "Ethanol": {
-                                               "simple coherence absolute tolerance": -1.2,
+                                               "simple coherence absolute tolerance": -1e-6,
                                                "relative amplitude threshold": 0.0,
                                                        "maximum Δc deviation": 0.3,
                                                         "coherence tolerance": 0.1
