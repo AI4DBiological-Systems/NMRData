@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= mfjofre
+$$ /home/mfjofre/data/cq_00547-D2O-sat-9-23-11/1/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2011-09-24 16:02:10.683 -0500>,<mfjofre>,<kurgan>,<go>,<TOPSPIN 3.0>,
+      <created by zg
+	started at 2011-09-24 16:00:55.190 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       DF FF 1F 74 ED AF AE 4F 1F 9B 50 44 84 64 8D 39
+       data hash MD5: 32K
+       6F FB 16 11 78 18 0C 6F 58 E2 B6 47 7B F9 07 D6>)
+##END=
+
+$$ hash MD5
+$$ E3 D5 3F AA 0A 16 2D 65 4C 68 A4 C0 8A A4 68 F5
