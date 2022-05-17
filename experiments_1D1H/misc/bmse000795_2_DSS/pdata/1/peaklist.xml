@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-05-18T09:44:11" expNo="1" name="DSS-d2o-2mM-5-10-11" owner="" procNo="1" source="/banyo2">
+      <PeakPickDetails>F1=3.127ppm, F2=0.421ppm, MI=0.19cm, MAXI=1.71cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.9249" intensity="1.04" type="0"/>
+    <Peak1D F1="2.9092" intensity="1.25" type="0"/>
+    <Peak1D F1="2.8933" intensity="1.11" type="0"/>
+    <Peak1D F1="1.7905" intensity="0.26" type="0"/>
+    <Peak1D F1="1.7796" intensity="0.32" type="0"/>
+    <Peak1D F1="1.7741" intensity="0.52" type="0"/>
+    <Peak1D F1="1.7668" intensity="0.49" type="0"/>
+    <Peak1D F1="1.7577" intensity="0.89" type="0"/>
+    <Peak1D F1="1.7486" intensity="0.5" type="0"/>
+    <Peak1D F1="1.7413" intensity="0.52" type="0"/>
+    <Peak1D F1="1.7359" intensity="0.34" type="0"/>
+    <Peak1D F1="1.7249" intensity="0.27" type="0"/>
+    <Peak1D F1="0.6444" intensity="0.99" type="0"/>
+    <Peak1D F1="0.6274" intensity="0.94" type="0"/>
+    <Peak1D F1="0.6104" intensity="0.95" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-05-18T09:44:11" expNo="1" name="DSS-d2o-2mM-5-10-11" owner="" procNo="1" source="/banyo2">
+      <PeakPickDetails>F1=0.003ppm, F2=-0.004ppm, MI=10.05cm, MAXI=17.36cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.0E-4" intensity="15.0" type="0"/>
+  </PeakList1D>
+</PeakList>
