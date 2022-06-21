@@ -23,6 +23,10 @@
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000953/simulation_1",
                                                      "file name": "bmse000953_simulation_1.json"
                                                   },
+               "Choline - 2000 study": {
+                                                      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+                                                     "file name": "brain_metabolite_Choline.json"
+                                                  },
             "L-Arginine bmse000029": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000029/simulation_1",
                                                      "file name": "bmse000029_simulation_1.json"
@@ -38,6 +42,10 @@
               "L-Valine": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000860/simulation_1",
                                                      "file name": "bmse000860_simulation_1.json"
+                                                  },
+              "L-Valine - 2000 study": {
+                                                      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+                                                     "file name": "brain_metabolite_Valine.json"
                                                   },
                "Glycine, 500 MHz": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000089/simulation_1",
@@ -62,6 +70,10 @@
            "L-Histidine": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000976/simulation_1",
                                                      "file name": "bmse000976_simulation_1.json"
+                                                  },
+             "L-Histidine - 2000 study": {
+                                                      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+                                                     "file name": "brain_metabolite_Histidine.json"
                                                   },
              "L-Proline": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000047/simulation_2",
@@ -191,6 +203,14 @@
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000038/simulation_1",
                                                      "file name": "bmse000038_simulation_1.json"
                                                   },
+           "L-Glutamine - 2000 study": {
+                                                      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+                                                     "file name": "brain_metabolite_Glutamine.json"
+                                                  },
+           "Glutamate - 2000 study": {
+                                                      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+                                                     "file name": "brain_metabolite_Glutamate.json"
+                                                  },
      "3-Hydroxybutyrate": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000905/simulation_1",
                                                      "file name": "bmse000905_simulation_1.json"
@@ -214,6 +234,10 @@
          "D-(+)-Glucose": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000015/simulation_1",
                                                      "file name": "bmse000015_simulation_1.json"
+                                                  },
+         "D-Glucose - 2000 study": {
+                                                      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+                                                     "file name": "brain_metabolite_Glucose.json"
                                                   },
             "Tryptamine": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000207/simulation_1",
@@ -266,6 +290,10 @@
               "L-Serine": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000867/simulation_1",
                                                      "file name": "bmse000867_simulation_1.json"
+                                                  },
+              "L-Serine - 2000 study": {
+                                                      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+                                                     "file name": "brain_metabolite_Serine.json"
                                                   },
                 "Folate": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000299/simulation_1",

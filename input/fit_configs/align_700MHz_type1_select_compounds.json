@@ -1530,6 +1530,27 @@
                                                                               3
                                                                             ]
                                             },
+                                "L-Serine-force-eq": {
+                                                  "maximum chemical shift": [
+                                                                              0.05
+                                                                            ],
+                                                                    "λ_lb": [
+                                                                              0.7
+                                                                            ],
+                                                                    "λ_ub": [
+                                                                              1.5
+                                                                            ],
+                                                           "κs_β ordering": [
+                                                                              [
+                                                                                1,
+                                                                                1,
+                                                                                2
+                                                                              ]
+                                                                            ],
+                                                 "κs_β degrees of freedom": [
+                                                                              2
+                                                                            ]
+                                            },
                                 "L-Serine - 2000 study": {
                                                   "maximum chemical shift": [
                                                                               0.05
