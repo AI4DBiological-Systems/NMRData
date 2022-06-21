@@ -90,6 +90,20 @@
                                                                     "κ_λ upper bound": 2.5,
                                                    "κ_λ surrogate sampling step size": 0.05
                                             },
+                            "alpha-D-Glucose": {
+                                                                              "Δcs_max": [],
+                                                "radians surrogate sampling step size": 1,
+                                                                     "κ_λ lower bound": 0.5,
+                                                                     "κ_λ upper bound": 2.5,
+                                                    "κ_λ surrogate sampling step size": 0.05
+                                             },
+                             "beta-D-Glucose": {
+                                                                               "Δcs_max": [],
+                                                 "radians surrogate sampling step size": 1,
+                                                                      "κ_λ lower bound": 0.5,
+                                                                      "κ_λ upper bound": 2.5,
+                                                     "κ_λ surrogate sampling step size": 0.05
+                                              },
                            "D-Glucose - 2000 study": {
                                                                              "Δcs_max": [],
                                                "radians surrogate sampling step size": 1,
@@ -399,6 +413,13 @@
                                                    "κ_λ surrogate sampling step size": 0.05
                                             },
                                 "L-Serine": {
+                                                                             "Δcs_max": [],
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ lower bound": 0.5,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05
+                                            },
+                                "L-Serine - mod": {
                                                                              "Δcs_max": [],
                                                "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,

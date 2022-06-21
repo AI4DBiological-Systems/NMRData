@@ -235,6 +235,14 @@
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000015/simulation_1",
                                                      "file name": "bmse000015_simulation_1.json"
                                                   },
+        "alpha-D-Glucose": {
+                                                     "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000015/simulation_1",
+                                                    "file name": "bmse000015_alpha.json"
+                                                 },
+       "beta-D-Glucose": {
+                                                    "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000015/simulation_1",
+                                                   "file name": "bmse000015_beta.json"
+                                                },
          "D-Glucose - 2000 study": {
                                                       "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
                                                      "file name": "brain_metabolite_Glucose.json"
@@ -294,6 +302,10 @@
               "L-Serine - 2000 study": {
                                                       "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
                                                      "file name": "brain_metabolite_Serine.json"
+                                                  },
+              "L-Serine - mod": {
+                                                      "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+                                                     "file name": "L-Serine_mod.json"
                                                   },
                 "Folate": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000299/simulation_1",
