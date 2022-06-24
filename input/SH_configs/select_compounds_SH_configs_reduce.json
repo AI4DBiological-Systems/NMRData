@@ -19,7 +19,7 @@
                                  },
          "L-Glutathione oxidized": {
                                  "simple coherence absolute tolerance": -1.2,
-                                 "relative amplitude threshold": 0.05,
+                                 "relative amplitude threshold": 0.01,
                                          "maximum Δc deviation": 0.3,
                                           "coherence tolerance": 0.01
                               },
