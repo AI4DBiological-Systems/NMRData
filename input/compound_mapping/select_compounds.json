@@ -3,6 +3,10 @@
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000909/simulation_1",
                                                      "file name": "bmse000909_simulation_1.json"
                                                   },
+        "ATP": {
+                                               "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000006/simulation_1",
+                                              "file name": "bmse000006_simulation_1.json"
+                                           },
           "L-Isoleucine": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000041/simulation_1",
                                                      "file name": "bmse000041_simulation_1.json"

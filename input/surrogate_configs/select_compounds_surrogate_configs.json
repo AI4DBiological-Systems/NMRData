@@ -20,6 +20,13 @@
                                                                     "κ_λ upper bound": 2.5,
                                                    "κ_λ surrogate sampling step size": 0.05
                                             },
+                "ATP": {
+                                                                          "Δcs_max": [],
+                                            "radians surrogate sampling step size": 1,
+                                                                 "κ_λ lower bound": 0.5,
+                                                                 "κ_λ upper bound": 2.5,
+                                                "κ_λ surrogate sampling step size": 0.05
+                                         },
                               "L-Arginine": {
                                                                              "Δcs_max": [],
                                                "radians surrogate sampling step size": 1,
