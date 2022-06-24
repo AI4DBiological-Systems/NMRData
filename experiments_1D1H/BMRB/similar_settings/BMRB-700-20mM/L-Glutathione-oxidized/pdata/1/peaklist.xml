@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2011-07-15T11:48:45">
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-07-15T11:48:45" expNo="105" name="bmrb_batch1_110709.Auto01" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=4.151ppm, F2=2.606ppm, MI=5.38cm, MAXI=135.96cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="3.7997" intensity="22.27" type="0"/>
+    <Peak1D F1="3.7752" intensity="92.79" type="0"/>
+    <Peak1D F1="3.7675" intensity="50.62" type="0"/>
+    <Peak1D F1="3.7588" intensity="100.00" type="0"/>
+    <Peak1D F1="3.7343" intensity="22.52" type="0"/>
+    <Peak1D F1="3.3138" intensity="19.96" type="0"/>
+    <Peak1D F1="3.3073" intensity="21.13" type="0"/>
+    <Peak1D F1="3.2933" intensity="23.76" type="0"/>
+    <Peak1D F1="3.2869" intensity="22.42" type="0"/>
+    <Peak1D F1="2.9831" intensity="21.45" type="0"/>
+    <Peak1D F1="2.9695" intensity="22.48" type="0"/>
+    <Peak1D F1="2.9627" intensity="20.54" type="0"/>
+    <Peak1D F1="2.9491" intensity="19.34" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-07-15T11:48:45" expNo="105" name="bmrb_batch1_110709.Auto01" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=2.606ppm, F2=2.469ppm, MI=4.74cm, MAXI=96.76cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.5743" intensity="5.23" type="0"/>
+    <Peak1D F1="2.5632" intensity="11.08" type="0"/>
+    <Peak1D F1="2.5523" intensity="19.95" type="0"/>
+    <Peak1D F1="2.5410" intensity="26.61" type="0"/>
+    <Peak1D F1="2.5302" intensity="30.08" type="0"/>
+    <Peak1D F1="2.5192" intensity="31.47" type="0"/>
+    <Peak1D F1="2.5082" intensity="21.16" type="0"/>
+    <Peak1D F1="2.4972" intensity="12.19" type="0"/>
+    <Peak1D F1="2.4861" intensity="6.15" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-07-15T11:48:45" expNo="105" name="bmrb_batch1_110709.Auto01" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=2.469ppm, F2=1.762ppm, MI=5.38cm, MAXI=135.96cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.1698" intensity="20.94" type="0"/>
+    <Peak1D F1="2.1589" intensity="43.93" type="0"/>
+    <Peak1D F1="2.1495" intensity="41.66" type="0"/>
+    <Peak1D F1="2.1386" intensity="16.92" type="0"/>
+  </PeakList1D>
+</PeakList>

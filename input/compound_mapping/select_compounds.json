@@ -7,6 +7,14 @@
                                                "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000006/simulation_1",
                                               "file name": "bmse000006_simulation_1.json"
                                            },
+          "L(-)-Glutathione, oxidized": {
+                                                 "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000906/simulation_1",
+                                                "file name": "bmse000906_simulation_1.json"
+                                             },
+         "L-Glutathione reduced": {
+                                                "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000185/simulation_1",
+                                               "file name": "bmse000185_simulation_1.json"
+                                            },
           "L-Isoleucine": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000041/simulation_1",
                                                      "file name": "bmse000041_simulation_1.json"
@@ -295,6 +303,10 @@
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000028/simulation_1",
                                                      "file name": "bmse000028_simulation_1.json"
                                                   },
+              "beta-Alanine": {
+                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000967/simulation_1",
+                                                      "file name": "bmse000967_simulation_1.json"
+                                                   },
                 "Purine": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000454/simulation_1",
                                                      "file name": "bmse000454_simulation_1.json"
