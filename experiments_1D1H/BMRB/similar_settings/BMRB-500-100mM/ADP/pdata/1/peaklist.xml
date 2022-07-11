@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-07-06T08:04:43" expNo="3" name="bmse000004-d2o-100mM-7-5-11" owner="" procNo="1" source="/opt/topspin216">
+      <PeakPickDetails>F1=162.366ppm, F2=139.771ppm, MI=1.20cm, MAXI=15.53cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="157.9685" intensity="7.24" type="0"/>
+    <Peak1D F1="155.3165" intensity="11.75" type="0"/>
+    <Peak1D F1="151.461" intensity="2.6" type="0"/>
+    <Peak1D F1="151.3481" intensity="2.84" type="0"/>
+    <Peak1D F1="142.7374" intensity="3.75" type="0"/>
+    <Peak1D F1="142.5029" intensity="4.7" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-07-06T08:04:43" expNo="3" name="bmse000004-d2o-100mM-7-5-11" owner="" procNo="1" source="/opt/topspin216">
+      <PeakPickDetails>F1=126.319ppm, F2=117.805ppm, MI=0.94cm, MAXI=3.71cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="121.045" intensity="2.7" type="0"/>
+    <Peak1D F1="121.0121" intensity="2.72" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-07-06T08:04:43" expNo="3" name="bmse000004-d2o-100mM-7-5-11" owner="" procNo="1" source="/opt/topspin216">
+      <PeakPickDetails>F1=92.546ppm, F2=84.420ppm, MI=1.47cm, MAXI=16.39cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="89.8979" intensity="12.11" type="0"/>
+    <Peak1D F1="89.6562" intensity="6.52" type="0"/>
+    <Peak1D F1="87.3968" intensity="3.17" type="0"/>
+    <Peak1D F1="87.3265" intensity="3.14" type="0"/>
+    <Peak1D F1="86.4017" intensity="5.35" type="0"/>
+    <Peak1D F1="86.3325" intensity="4.97" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-07-06T08:04:43" expNo="3" name="bmse000004-d2o-100mM-7-5-11" owner="" procNo="1" source="/opt/topspin216">
+      <PeakPickDetails>F1=80.256ppm, F2=62.550ppm, MI=0.74cm, MAXI=17.71cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="77.2908" intensity="7.37" type="0"/>
+    <Peak1D F1="77.1211" intensity="15.0" type="0"/>
+    <Peak1D F1="73.4206" intensity="7.42" type="0"/>
+    <Peak1D F1="72.6188" intensity="14.07" type="0"/>
+    <Peak1D F1="67.2473" intensity="4.72" type="0"/>
+    <Peak1D F1="67.2075" intensity="4.52" type="0"/>
+    <Peak1D F1="66.3159" intensity="3.02" type="0"/>
+    <Peak1D F1="66.2812" intensity="2.95" type="0"/>
+  </PeakList1D>
+</PeakList>

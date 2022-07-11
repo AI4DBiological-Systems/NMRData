@@ -1,695 +1,906 @@
 {
                               "Creatinine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                        "Creatine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                        "Uridine, 500 MHz": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                    "L-Arginine bmse000029": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
-                "ATP": {
-                                                                          "Δcs_max": [],
-                                            "radians surrogate sampling step size": 1,
-                                                                 "κ_λ lower bound": 0.5,
-                                                                 "κ_λ upper bound": 2.5,
-                                                "κ_λ surrogate sampling step size": 0.05
-                                         },
-               "L-Glutathione oxidized": {
-                                                                         "Δcs_max": [],
-                                           "radians surrogate sampling step size": 1,
-                                                                "κ_λ lower bound": 0.5,
-                                                                "κ_λ upper bound": 2.5,
-                                               "κ_λ surrogate sampling step size": 0.05
-                                        },
-                "L-Glutathione reduced": {
-                                                                          "Δcs_max": [],
-                                            "radians surrogate sampling step size": 1,
-                                                                 "κ_λ lower bound": 0.5,
-                                                                 "κ_λ upper bound": 2.5,
-                                                "κ_λ surrogate sampling step size": 0.05
-                                         },
-                 "beta-Alanine": {
-                                                                           "Δcs_max": [],
-                                             "radians surrogate sampling step size": 1,
-                                                                  "κ_λ lower bound": 0.5,
-                                                                  "κ_λ upper bound": 2.5,
-                                                 "κ_λ surrogate sampling step size": 0.05
-                                          },
                               "L-Arginine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                   "Succinic acid, 400 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                             "L-Isoleucine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                    "L-Methionine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                               "L-Cystine": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                 "Dopamine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                          "L-Glutamic acid": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                  "L-Glutathione oxidized": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                  "Myo-Inositol bmse000901": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                                "Agmatine": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                 "Methanol": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                   "Acetylcholine, 400 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                            "D-(+)-Glucose": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
-                            "alpha-D-Glucose": {
-                                                                              "Δcs_max": [],
-                                                "radians surrogate sampling step size": 1,
-                                                                     "κ_λ lower bound": 0.5,
-                                                                     "κ_λ upper bound": 2.5,
-                                                    "κ_λ surrogate sampling step size": 0.05
-                                             },
-                             "beta-D-Glucose": {
-                                                                               "Δcs_max": [],
-                                                 "radians surrogate sampling step size": 1,
-                                                                      "κ_λ lower bound": 0.5,
-                                                                      "κ_λ upper bound": 2.5,
-                                                     "κ_λ surrogate sampling step size": 0.05
-                                              },
-                           "D-Glucose - 2000 study": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
+                               "Guanosine": {
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                  "Ethanol": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                  "Choline": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
-                                                                    "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
-                                            },
-                                 "Choline - 2000 study": {
-                                                                             "Δcs_max": [],
                                                "radians surrogate sampling step size": 1,
-                                                                    "κ_λ lower bound": 0.5,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                   "5-Hydroxy-L-tryptophan": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                  "D-Glucose - 2000 study": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                     "L-Histidine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                           "Norepinephrine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                         "Glycine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                              "L-Threonine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                         "2'-Deoxyinosine": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                    "L-Arginine bmse000711": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
            "3,4-Dihydroxy-L-phenylalanine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                "L-Proline": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                                 "Inosine": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                          "L-Phenylalanine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                        "L-Serine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
    "L-Isoleucine, bad, missing J-coupling": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                        "Glycerol, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
               "3-Hydroxybutyrate, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                           "HEPES, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                  "Glutamate - 2000 study": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                   "L-Serine - 2000 study": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                   "Folate": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                 "L-Lysine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                            "Acetylcholine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                         "Choline, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                  "N-Alpha-Acetyl-L-Lysine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                              "L-Glutamine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
-                                                                    "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
-                                            },
-                             "L-Glutamine - 2000 study": {
-                                                                             "Δcs_max": [],
                                                "radians surrogate sampling step size": 1,
-                                                                    "κ_λ lower bound": 0.5,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
-                                            },
-                             "Glutamate - 2000 study": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
-                                                                    "κ_λ lower bound": 0.5,
-                                                                    "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                             "L-Tryptophan": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                           "Diethanolamine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                   "Purine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                          "2-Phenylethanol": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                "L-Histidine - 2000 study": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                    "HEPES": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                             "L-Asparagine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                         "Formiminoglycine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                               "Thymidine": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                               "DL-Alanine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                             "L-Kynurenine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                      "Putrescine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                          "L-Aspartic acid": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                "Serotonin": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                            "AMP, 500 MHz": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                       "2'-Deoxyguanosine": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                  "Glycine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                     "L-Threonine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                             "Myo-Inositol": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                "L-Leucine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                              "Epinephrine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                        "L-(+) Lactic acid": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                   "L-Glutathione reduced": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                   "L-Valine - 2000 study": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                          "beta-D-Glucose": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                       "Agmatine, 500 MHz": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                 "L-Serine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
-                                "L-Serine - mod": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
+                "L-Glutamine - 2000 study": {
                                                                     "κ_λ lower bound": 0.5,
-                                                                    "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
-                                            },
-                                "L-Serine - 2000 study": {
-                                                                             "Δcs_max": [],
                                                "radians surrogate sampling step size": 1,
-                                                                    "κ_λ lower bound": 0.5,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                  "Gamma-Aminobutyric acid": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
               "L-Phenylalanine bmse000921": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                       "L-Proline, 600 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                            "Succinic acid": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                               "L-Cysteine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                      "L-Cysteine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                    "Choline - 2000 study": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                  "L-Tryptophan bmse000050": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                        "Inosine, 500 MHz": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                                     "ATP": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                 "Caffeine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                                 "Uridine": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                               "Putrescine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                                     "AMP": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                        "L-Valine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                 "Creatine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                 "L-Phenylalanine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                        "Dopamine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                          "L-Serine - mod": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                        "L-Lysine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                            "beta-Alanine": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                 "L-Valine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
-                                                                    "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
-                                            },
-                                "L-Valine - 2000 study": {
-                                                                             "Δcs_max": [],
                                                "radians surrogate sampling step size": 1,
-                                                                    "κ_λ lower bound": 0.5,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                             "L-Methionine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
           "Phenylacetylglycine bmse000658": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                      "DSS": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                    "Myo-Inositol, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                        "3-Hydroxybutyrate": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                              "L-Histidine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
-                             "L-Histidine - 2000 study": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
+                               "Adenosine": {
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                 "Glycerol": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                      "Phenylacetylglycine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                    "L-Arginine bmse000919": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                    "L-Asparagine, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                       "L-Proline, 500 MHz": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                "DL-Serine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                               "Tryptamine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                          "Triethanolamine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                               "L-Tyrosine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                         "alpha-D-Glucose": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             },
                                "L-Alanine": {
-                                                                             "Δcs_max": [],
-                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
                                             }
 }

@@ -1,0 +1,56 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= mfjofre
+$$ /opt/topspin216/data/mfjofre/nmr/bmse000004-d2o-100mM-7-5-11/3/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2011-07-05 20:23:50.042 -0500>,<mfjofre>,<kerry>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2011-07-05 19:55:51.300 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       45 42 F7 09 BA B6 CE 68 86 14 56 98 E8 68 CF 4D
+       data hash MD5: 64K
+       A2 CD 39 CA 13 AA 85 B1 41 E4 48 84 BA 4F 62 64>)
+(   2,<2011-07-05 20:23:51.614 -0500>,<mfjofre>,<kerry>,<audit>,<TOPSPIN 2.1>,
+      <user comment:
+       ICON-NMR User ID: mfjofre
+       data hash MD5: 64K
+       A2 CD 39 CA 13 AA 85 B1 41 E4 48 84 BA 4F 62 64>)
+(   3,<2011-07-06 08:01:10.963 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       em LB = 1 SI = 32K 
+       data hash MD5: 32K
+       3B 53 45 45 CB 53 72 77 79 A3 08 84 8E DC FB 74>)
+(   4,<2011-07-06 08:01:11.216 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       CB 5D B1 ED B8 F4 1A 63 E6 EB 3A 74 5B AC 8C 92>)
+(   5,<2011-07-06 08:01:11.922 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <apk 
+       data hash MD5: 32K
+       91 12 02 CF 56 4D 82 6C A4 24 60 24 97 FF 1B B7>)
+(   6,<2011-07-06 08:01:12.175 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       87 87 3B DD 5F CA 89 44 F9 B6 46 48 58 00 35 1F>)
+(   7,<2011-07-06 08:01:41.220 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <pk fgphup PHC0 = -17.21387 PHC1 = -555.2 
+       data hash MD5: 32K
+       15 73 96 CC 33 A3 FB FC FA 10 C9 16 B7 27 C5 14>)
+(   8,<2011-07-06 08:01:46.564 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       DF 33 E3 35 ED 86 EE 85 4B 58 BF 1D 94 8D 10 1E>)
+(   9,<2011-07-12 11:05:19.635 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 3.1>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       3F 42 39 8A 68 75 BC 92 A2 C1 22 3A B6 48 82 21>)
+(  10,<2011-07-12 11:05:40.341 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 3.1>,
+      <absd n ABSG = 5 
+       data hash MD5: 32K
+       FC D6 39 D4 D6 93 44 81 A3 C2 0C 03 6D 8D F8 D8>)
+##END=
+
+$$ hash MD5
+$$ 65 7F 68 00 06 75 A7 CB F9 B6 1E EB E3 8B E8 7E

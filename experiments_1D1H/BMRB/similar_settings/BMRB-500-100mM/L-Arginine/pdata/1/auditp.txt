@@ -1,0 +1,48 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= mfjofre
+$$ /banyo2/data/mfjofre/nmr/cq_01493-d2o-10-5-10/3/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2010-10-05 11:16:18.942 -0500>,<mfjofre>,<kerry>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2010-10-05 10:48:20.190 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       7C 75 FC 94 E4 93 CF AE C1 36 AF D7 FF A0 8D 9C
+       data hash MD5: 64K
+       55 C1 B4 D4 F3 EF 0F 0A 8A FA 55 9B 56 D2 27 67>)
+(   2,<2010-10-05 11:16:19.221 -0500>,<mfjofre>,<kerry>,<audit>,<TOPSPIN 2.1>,
+      <user comment:
+       ICON-NMR User ID: mfjofre
+       data hash MD5: 64K
+       55 C1 B4 D4 F3 EF 0F 0A 8A FA 55 9B 56 D2 27 67>)
+(   3,<2010-10-07 10:31:05.302 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       em LB = 1 SI = 32K 
+       data hash MD5: 32K
+       BE DE 0F 63 28 42 EF 75 84 3B 61 99 94 96 7B 8F>)
+(   4,<2010-10-07 10:31:06.390 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       5E C9 18 5E 7B A2 4A A8 D2 F5 C0 2A 43 93 3D 2F>)
+(   5,<2010-10-07 10:31:07.822 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <apk 
+       data hash MD5: 32K
+       F0 77 5B F8 28 E7 E5 75 CA CA FF E4 EF 96 5D B0>)
+(   6,<2010-10-07 10:31:08.780 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       A9 6B 3A 9B E1 DF 2B 56 8F D6 6C DA 00 E6 75 F6>)
+(   7,<2010-10-07 10:31:56.165 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <pk fgphup PHC0 = -123.2533 PHC1 = -301.45 
+       data hash MD5: 32K
+       55 4C C9 E3 66 30 08 2A 0A BE 68 32 2C AF CC 1E>)
+(   8,<2010-10-07 10:32:01.089 -0500>,<mfjofre>,<watusi.nmrfam.wisc.edu>,<proc1d>,<TOPSPIN 2.1>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       E1 CE A8 D9 9E 4B A7 6B 10 63 D8 FA 0E BB 29 A7>)
+##END=
+
+$$ hash MD5
+$$ 57 D2 1F 5F 28 1C E4 61 91 86 1B 90 03 39 BB BA

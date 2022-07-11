@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2011-11-10T10:22:45">
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-11-10T10:22:45" expNo="1" name="cq_00215_100mM_10-17-2011_600" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=8.296ppm, F2=5.594ppm, MI=0.59cm, MAXI=6.29cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="7.8856" intensity="4.96" type="0"/>
+    <Peak1D F1="7.8721" intensity="5.17" type="0"/>
+    <Peak1D F1="5.9112" intensity="3.40" type="0"/>
+    <Peak1D F1="5.9038" intensity="3.60" type="0"/>
+    <Peak1D F1="5.8934" intensity="3.53" type="0"/>
+    <Peak1D F1="5.8799" intensity="3.49" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-11-10T10:22:45" expNo="1" name="cq_00215_100mM_10-17-2011_600" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=4.614ppm, F2=3.192ppm, MI=0.52cm, MAXI=5.11cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="4.3520" intensity="2.19" type="0"/>
+    <Peak1D F1="4.3437" intensity="4.16" type="0"/>
+    <Peak1D F1="4.3358" intensity="2.67" type="0"/>
+    <Peak1D F1="4.2310" intensity="2.24" type="0"/>
+    <Peak1D F1="4.2219" intensity="4.45" type="0"/>
+    <Peak1D F1="4.2130" intensity="2.49" type="0"/>
+    <Peak1D F1="4.1354" intensity="1.25" type="0"/>
+    <Peak1D F1="4.1280" intensity="2.41" type="0"/>
+    <Peak1D F1="4.1227" intensity="2.40" type="0"/>
+    <Peak1D F1="4.1148" intensity="1.27" type="0"/>
+    <Peak1D F1="3.9191" intensity="2.11" type="0"/>
+    <Peak1D F1="3.9145" intensity="2.23" type="0"/>
+    <Peak1D F1="3.8977" intensity="3.27" type="0"/>
+    <Peak1D F1="3.8932" intensity="3.28" type="0"/>
+    <Peak1D F1="3.8152" intensity="2.98" type="0"/>
+    <Peak1D F1="3.8080" intensity="3.04" type="0"/>
+    <Peak1D F1="3.7939" intensity="2.16" type="0"/>
+    <Peak1D F1="3.7867" intensity="2.11" type="0"/>
+  </PeakList1D>
+</PeakList>

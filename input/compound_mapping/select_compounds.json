@@ -3,10 +3,70 @@
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000909/simulation_1",
                                                      "file name": "bmse000909_simulation_1.json"
                                                   },
-        "ATP": {
+        "L-Cystine": {
+                                               "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000035/simulation_1",
+                                              "file name": "bmse000035_simulation_1.json"
+                                           },
+        "Adenosine": {
+                                               "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000061/simulation_1",
+                                              "file name": "bmse000061_simulation_1.json"
+                                           },
+         "Inosine, 500 MHz": {
+                                                "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000098/simulation_1",
+                                              "file name": "bmse000098_simulation_1.json"
+                                           },
+       "Inosine": {
+                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000978/simulation_1",
+                                            "file name": "bmse000978_simulation_1.json"
+                                         },
+        "Guanosine": {
+                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000091/simulation_1",
+                                            "file name": "bmse000091_simulation_1.json"
+                                         },
+        "2'-Deoxyinosine": {
+                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000942/simulation_1",
+                                            "file name": "bmse000942_simulation_1.json"
+                                         },
+        "2'-Deoxyguanosine": {
+                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000003/simulation_1",
+                                            "file name": "bmse000003_simulation_1.json"
+                                         },
+        "Uridine, 500 MHz": {
+                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000158/simulation_1",
+                                            "file name": "bmse000158_simulation_1.json"
+                                         },
+        "Uridine": {
+                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000864/simulation_1",
+                                            "file name": "bmse000864_simulation_1.json"
+                                         },
+        "Thymidine": {
+                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000244/simulation_1",
+                                            "file name": "bmse000244_simulation_1.json"
+                                         },
+        "ATP, 500 MHz": {
                                                "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000006/simulation_1",
                                               "file name": "bmse000006_simulation_1.json"
                                            },
+         "ATP": {
+         "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000854/simulation_1",
+         "file name": "bmse000854_simulation_1.json"
+      },
+         "AMP": {
+            "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000873/simulation_1",
+            "file name": "bmse000873_simulation_1.json"
+         },
+         "AMP, 500 MHz": {
+            "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000005/simulation_1",
+            "file name": "bmse000005_simulation_1.json"
+         },
+            "Agmatine": {
+               "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000936/simulation_1",
+               "file name": "bmse000936_simulation_1.json"
+            },
+            "Agmatine, 500 MHz": {
+               "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000063/simulation_1",
+               "file name": "bmse000063_simulation_1.json"
+            },
           "L-Glutathione oxidized": {
                                                  "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000906/simulation_1",
                                                 "file name": "bmse000906_simulation_1.json"

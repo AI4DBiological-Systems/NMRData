@@ -1,0 +1,40 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= mfjofre
+$$ /opt/topspin216/data/mfjofre/nmr/bmse000051-d2o-satd-7-18-11-pH-11.15/3/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2011-07-18 13:24:17.120 -0500>,<mfjofre>,<kerry>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2011-07-18 12:29:18.537 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       45 42 F7 09 BA B6 CE 68 86 14 56 98 E8 68 CF 4D
+       data hash MD5: 64K
+       82 31 78 CC 0A 2B A9 76 43 04 FF 93 F8 91 A0 AD>)
+(   2,<2011-07-18 13:24:17.408 -0500>,<mfjofre>,<kerry>,<audit>,<TOPSPIN 2.1>,
+      <user comment:
+       ICON-NMR User ID: mfjofre
+       data hash MD5: 64K
+       82 31 78 CC 0A 2B A9 76 43 04 FF 93 F8 91 A0 AD>)
+(   3,<2011-07-19 08:36:37.206 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       em LB = 1 SI = 32K 
+       data hash MD5: 32K
+       E6 C4 1E 8A 6A 27 63 30 AF A2 1A 6E 8B AA E1 52>)
+(   4,<2011-07-19 08:36:37.445 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       CE 0A 5D 4C 60 1C 75 29 32 C0 81 F0 50 67 B0 8B>)
+(   5,<2011-07-19 08:36:38.131 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <apk 
+       data hash MD5: 32K
+       12 07 00 67 D7 A0 55 D4 BA B5 E6 E5 AD 0F EA 7C>)
+(   6,<2011-07-19 08:36:38.368 -0500>,<mfjofre>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       C4 31 C6 58 94 54 73 C8 04 CE AF 9B 01 EE 69 71>)
+##END=
+
+$$ hash MD5
+$$ 3E FB 49 33 2C 6B E2 5E 44 D8 76 2D B4 04 DF 1A

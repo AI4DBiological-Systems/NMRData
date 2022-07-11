@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2011-07-08T08:29:31">
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-07-08T08:29:31" expNo="1" name="bmse000098-d2o-0.5mM-6-18-2011" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=8.941ppm, F2=7.630ppm, MI=0.58cm, MAXI=4.95cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.2686" intensity="0.76" type="0"/>
+    <Peak1D F1="8.2583" intensity="1.33" type="0"/>
+    <Peak1D F1="8.1925" intensity="1.83" type="0"/>
+    <Peak1D F1="8.1894" intensity="3.34" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-07-08T08:29:31" expNo="1" name="bmse000098-d2o-0.5mM-6-18-2011" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=6.454ppm, F2=5.765ppm, MI=0.60cm, MAXI=2.93cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="6.0681" intensity="2.41" type="0"/>
+    <Peak1D F1="6.0561" intensity="2.41" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-07-08T08:29:31" expNo="1" name="bmse000098-d2o-0.5mM-6-18-2011" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=4.655ppm, F2=3.445ppm, MI=0.89cm, MAXI=3.98cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="4.4334" intensity="2.18" type="0"/>
+    <Peak1D F1="4.4262" intensity="2.64" type="0"/>
+    <Peak1D F1="4.4232" intensity="2.41" type="0"/>
+    <Peak1D F1="4.4159" intensity="2.26" type="0"/>
+    <Peak1D F1="4.2865" intensity="0.95" type="0"/>
+    <Peak1D F1="4.2798" intensity="2.42" type="0"/>
+    <Peak1D F1="4.2734" intensity="2.40" type="0"/>
+    <Peak1D F1="3.9160" intensity="1.59" type="0"/>
+    <Peak1D F1="3.9103" intensity="1.59" type="0"/>
+    <Peak1D F1="3.8903" intensity="3.26" type="0"/>
+    <Peak1D F1="3.8846" intensity="3.06" type="0"/>
+    <Peak1D F1="3.8423" intensity="3.08" type="0"/>
+    <Peak1D F1="3.8348" intensity="3.03" type="0"/>
+    <Peak1D F1="3.8165" intensity="1.64" type="0"/>
+    <Peak1D F1="3.8090" intensity="1.56" type="0"/>
+  </PeakList1D>
+</PeakList>

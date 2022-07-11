@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2011-11-15T10:54:28">
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-11-15T10:54:28" expNo="1" name="cq_00547-D2O-sat-9-23-11_600" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=8.002ppm, F2=6.926ppm, MI=0.26cm, MAXI=3.67cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="7.7268" intensity="1.23" type="0"/>
+    <Peak1D F1="7.7135" intensity="1.31" type="0"/>
+    <Peak1D F1="7.5335" intensity="1.02" type="0"/>
+    <Peak1D F1="7.5199" intensity="1.16" type="0"/>
+    <Peak1D F1="7.3023" intensity="2.12" type="0"/>
+    <Peak1D F1="7.2834" intensity="0.62" type="0"/>
+    <Peak1D F1="7.2714" intensity="1.20" type="0"/>
+    <Peak1D F1="7.2581" intensity="0.72" type="0"/>
+    <Peak1D F1="7.2001" intensity="0.85" type="0"/>
+    <Peak1D F1="7.1882" intensity="1.31" type="0"/>
+    <Peak1D F1="7.1752" intensity="0.63" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-11-15T10:54:28" expNo="1" name="cq_00547-D2O-sat-9-23-11_600" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=4.330ppm, F2=3.168ppm, MI=0.19cm, MAXI=2.12cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="4.0463" intensity="0.83" type="0"/>
+    <Peak1D F1="4.0383" intensity="0.97" type="0"/>
+    <Peak1D F1="4.0329" intensity="1.02" type="0"/>
+    <Peak1D F1="4.0248" intensity="0.91" type="0"/>
+    <Peak1D F1="3.4865" intensity="0.73" type="0"/>
+    <Peak1D F1="3.4786" intensity="0.72" type="0"/>
+    <Peak1D F1="3.4610" intensity="0.97" type="0"/>
+    <Peak1D F1="3.4530" intensity="0.92" type="0"/>
+    <Peak1D F1="3.3119" intensity="1.03" type="0"/>
+    <Peak1D F1="3.2985" intensity="1.01" type="0"/>
+    <Peak1D F1="3.2863" intensity="0.80" type="0"/>
+    <Peak1D F1="3.2729" intensity="0.76" type="0"/>
+  </PeakList1D>
+</PeakList>

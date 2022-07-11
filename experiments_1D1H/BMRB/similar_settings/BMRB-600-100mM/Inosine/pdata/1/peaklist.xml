@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2012-07-26T10:25:57">
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2012-07-26T10:25:57" expNo="1" name="00212_600_D2O_7-17-2012" owner="" procNo="1" source="/nmrfam_data/mfjofre/nmr/kurgan">
+      <PeakPickDetails>F1=9.378ppm, F2=2.919ppm, MI=1.08cm, MAXI=16.99cm, PC=1.500
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.3069" intensity="15.00" type="0"/>
+    <Peak1D F1="8.1817" intensity="8.58" type="0"/>
+    <Peak1D F1="6.0621" intensity="6.34" type="0"/>
+    <Peak1D F1="6.0527" intensity="6.43" type="0"/>
+    <Peak1D F1="4.7586" intensity="3.00" type="0"/>
+    <Peak1D F1="4.7495" intensity="5.81" type="0"/>
+    <Peak1D F1="4.7405" intensity="3.17" type="0"/>
+    <Peak1D F1="4.4510" intensity="3.73" type="0"/>
+    <Peak1D F1="4.4431" intensity="5.63" type="0"/>
+    <Peak1D F1="4.4358" intensity="3.90" type="0"/>
+    <Peak1D F1="4.2903" intensity="1.69" type="0"/>
+    <Peak1D F1="4.2841" intensity="4.53" type="0"/>
+    <Peak1D F1="4.2784" intensity="4.36" type="0"/>
+    <Peak1D F1="4.2725" intensity="1.74" type="0"/>
+    <Peak1D F1="3.9419" intensity="2.92" type="0"/>
+    <Peak1D F1="3.9371" intensity="3.05" type="0"/>
+    <Peak1D F1="3.9205" intensity="5.22" type="0"/>
+    <Peak1D F1="3.9157" intensity="5.08" type="0"/>
+    <Peak1D F1="3.8672" intensity="4.92" type="0"/>
+    <Peak1D F1="3.8607" intensity="5.07" type="0"/>
+    <Peak1D F1="3.8460" intensity="3.07" type="0"/>
+    <Peak1D F1="3.8393" intensity="2.96" type="0"/>
+  </PeakList1D>
+</PeakList>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2011-07-13T11:00:13">
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2011-07-13T11:00:13" expNo="3" name="bmse000061-d2o-sat-7-8-11" owner="" procNo="1" source="/banyo2/data/mfjofre/nmr">
+      <PeakPickDetails>F1=201.263ppm, F2=42.275ppm, MI=2.36cm, MAXI=13.81cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="158.4279" intensity="3.76" type="0"/>
+    <Peak1D F1="155.2976" intensity="10.06" type="0"/>
+    <Peak1D F1="151.1993" intensity="4.05" type="0"/>
+    <Peak1D F1="143.3553" intensity="7.07" type="0"/>
+    <Peak1D F1="121.8962" intensity="3.40" type="0"/>
+    <Peak1D F1="91.0743" intensity="9.06" type="0"/>
+    <Peak1D F1="88.6294" intensity="9.88" type="0"/>
+    <Peak1D F1="76.4264" intensity="12.17" type="0"/>
+    <Peak1D F1="73.4157" intensity="10.60" type="0"/>
+    <Peak1D F1="64.2663" intensity="9.19" type="0"/>
+  </PeakList1D>
+</PeakList>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2012-09-14T12:58:55">
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2012-09-14T12:58:55" expNo="108" name="temporary" owner="" procNo="1" source="/home/mfjofre/Windows_Documents">
+      <PeakPickDetails>F1=8.665ppm, F2=8.076ppm, MI=14.36cm, MAXI=123.52cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.5991" intensity="100.00" type="0"/>
+    <Peak1D F1="8.2529" intensity="58.28" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2012-09-14T12:58:55" expNo="108" name="temporary" owner="" procNo="1" source="/home/mfjofre/Windows_Documents">
+      <PeakPickDetails>F1=6.194ppm, F2=5.978ppm, MI=7.48cm, MAXI=50.25cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="6.1330" intensity="40.09" type="0"/>
+    <Peak1D F1="6.1245" intensity="40.54" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="mfjofre" date="2012-09-14T12:58:55" expNo="108" name="temporary" owner="" procNo="1" source="/home/mfjofre/Windows_Documents">
+      <PeakPickDetails>F1=4.807ppm, F2=3.832ppm, MI=7.78cm, MAXI=82.25cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="4.5023" intensity="22.75" type="0"/>
+    <Peak1D F1="4.4973" intensity="26.43" type="0"/>
+    <Peak1D F1="4.4952" intensity="24.43" type="0"/>
+    <Peak1D F1="4.4901" intensity="23.47" type="0"/>
+    <Peak1D F1="4.3569" intensity="19.86" type="0"/>
+    <Peak1D F1="4.3548" intensity="21.37" type="0"/>
+    <Peak1D F1="4.3523" intensity="21.21" type="0"/>
+    <Peak1D F1="4.3503" intensity="19.49" type="0"/>
+    <Peak1D F1="4.0016" intensity="40.23" type="0"/>
+    <Peak1D F1="3.9967" intensity="49.83" type="0"/>
+    <Peak1D F1="3.9954" intensity="48.87" type="0"/>
+    <Peak1D F1="3.9904" intensity="35.19" type="0"/>
+  </PeakList1D>
+</PeakList>

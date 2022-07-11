@@ -1,0 +1,36 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ravi
+$$ /opt/topspin/data/ravi/nmr/CQ-01493-D2O-020810/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2010-02-18 17:49:14.129 -0600>,<ravi>,<kerry>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2010-02-18 17:48:02.454 -0600,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       AD C9 4C B8 D2 60 E0 36 72 71 0B 20 3D 00 11 62
+       data hash MD5: 19478
+       44 F1 20 F6 AB 47 C6 B1 69 86 33 96 49 93 0D 1C>)
+(   2,<2010-02-18 17:49:14.392 -0600>,<ravi>,<kerry>,<audit>,<TOPSPIN 2.1>,
+      <user comment:
+       ICON-NMR User ID: ravi
+       data hash MD5: 19478
+       44 F1 20 F6 AB 47 C6 B1 69 86 33 96 49 93 0D 1C>)
+(   3,<2010-02-18 17:49:16.131 -0600>,<ravi>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 295.9989 PHC1 = -125.6158 TDeff = 16K SI = 32K 
+       data hash MD5: 32K
+       81 5A 47 0C 68 50 5F 36 22 57 38 6B 7B 55 06 A3>)
+(   4,<2010-02-18 17:49:18.705 -0600>,<ravi>,<kerry>,<proc1d>,<TOPSPIN 2.1>,
+      <apk 
+       data hash MD5: 32K
+       CA 24 C1 F5 20 C8 22 42 6A BB FF AA 90 15 26 11>)
+(   5,<2010-02-18 17:49:23.176 -0600>,<ravi>,<kerry>,<dirdata>,<TOPSPIN 2.1>,
+      <wrpa from 1 9 "CQ-01493-D2O-020810" "ravi" "/opt/topspin"
+       data hash MD5: 32K
+       CA 24 C1 F5 20 C8 22 42 6A BB FF AA 90 15 26 11>)
+##END=
+
+$$ hash MD5
+$$ 80 EE C3 A9 B1 69 31 10 E9 ED 67 E2 6D 90 42 24
