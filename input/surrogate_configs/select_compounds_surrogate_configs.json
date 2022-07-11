@@ -175,7 +175,7 @@
                                                                             "Δcs_max": [
 ]
                                             },
-                    "L-Histidine, 500 MHz": {
+                          "Norepinephrine": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
@@ -183,7 +183,7 @@
                                                                             "Δcs_max": [
 ]
                                             },
-                          "Norepinephrine": {
+                    "L-Histidine, 500 MHz": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
@@ -247,7 +247,7 @@
                                                                             "Δcs_max": [
 ]
                                             },
-                         "L-Phenylalanine": {
+                       "L-Serine, 500 MHz": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
@@ -255,7 +255,7 @@
                                                                             "Δcs_max": [
 ]
                                             },
-                       "L-Serine, 500 MHz": {
+                         "L-Phenylalanine": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
