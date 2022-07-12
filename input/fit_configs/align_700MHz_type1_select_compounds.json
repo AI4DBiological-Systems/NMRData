@@ -42,8 +42,8 @@
                                             },
                         "Uridine, 500 MHz": {
                                                   "maximum chemical shift": [
-                                                                              0.05,
-                                                                              0.05
+                                                                              0.1,
+                                                                              0.1
                                                                             ],
                                                                     "λ_lb": [
                                                                               0.7,
@@ -2184,8 +2184,8 @@
                                             },
                                  "Uridine": {
                                                   "maximum chemical shift": [
-                                                                              0.05,
-                                                                              0.05
+                                                                              0.1,
+                                                                              0.1
                                                                             ],
                                                                     "λ_lb": [
                                                                               0.7,
