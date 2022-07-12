@@ -272,10 +272,6 @@
                                                      "file name": "bmse000856_simulation_1.json"
                                                   },
            "L-Glutamine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000038/simulation_1",
-                                                     "file name": "bmse000038_simulation_1.json"
-                                                  },
-           "L-Glutamine - 2000 study": {
                                                       "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
                                                      "file name": "brain_metabolite_Glutamine.json"
                                                   },

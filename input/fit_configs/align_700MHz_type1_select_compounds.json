@@ -603,8 +603,8 @@
                                             },
                     "L-Histidine, 500 MHz": {
                                                   "maximum chemical shift": [
-                                                                              0.05,
-                                                                              0.05
+                                                                              0.1,
+                                                                              0.1
                                                                             ],
                                                                     "λ_lb": [
                                                                               0.7,
@@ -1180,29 +1180,6 @@
                                                                               8
                                                                             ]
                                             },
-                             "L-Glutamine": {
-                                                  "maximum chemical shift": [
-                                                                              0.05
-                                                                            ],
-                                                                    "λ_lb": [
-                                                                              0.7
-                                                                            ],
-                                                                    "λ_ub": [
-                                                                              1.5
-                                                                            ],
-                                                           "κs_β ordering": [
-                                                                              [
-                                                                                1,
-                                                                                2,
-                                                                                3,
-                                                                                4,
-                                                                                5
-                                                                              ]
-                                                                            ],
-                                                 "κs_β degrees of freedom": [
-                                                                              5
-                                                                            ]
-                                            },
                             "L-Tryptophan": {
                                                   "maximum chemical shift": [
                                                                               0.05,
@@ -1327,8 +1304,8 @@
                                             },
                 "L-Histidine - 2000 study": {
                                                   "maximum chemical shift": [
-                                                                              0.05,
-                                                                              0.05
+                                                                              0.1,
+                                                                              0.1
                                                                             ],
                                                                     "λ_lb": [
                                                                               0.7,
@@ -1901,7 +1878,7 @@
                                                                               3
                                                                             ]
                                             },
-                "L-Glutamine - 2000 study": {
+                "L-Glutamine": {
                                                   "maximum chemical shift": [
                                                                               0.05
                                                                             ],
@@ -2611,9 +2588,9 @@
                                             },
                              "L-Histidine": {
                                                   "maximum chemical shift": [
-                                                                              0.05,
                                                                               0.1,
-                                                                              0.1
+                                                                              0.15,
+                                                                              0.2
                                                                             ],
                                                                     "λ_lb": [
                                                                               0.7,

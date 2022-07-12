@@ -263,12 +263,6 @@
                                                "simple coherence absolute tolerance": 0.01,
                                                                "coherence tolerance": 0.01
                                             },
-                             "L-Glutamine": {
-                                                      "relative amplitude threshold": 0.01,
-                                                              "maximum Δc deviation": 0.3,
-                                               "simple coherence absolute tolerance": 0.01,
-                                                               "coherence tolerance": 0.01
-                                            },
                             "L-Tryptophan": {
                                                       "relative amplitude threshold": 0.01,
                                                               "maximum Δc deviation": 0.3,
@@ -431,10 +425,10 @@
                                                "simple coherence absolute tolerance": 0.01,
                                                                "coherence tolerance": 0.01
                                             },
-                "L-Glutamine - 2000 study": {
+                "L-Glutamine": {
                                                       "relative amplitude threshold": 0.01,
                                                               "maximum Δc deviation": 0.3,
-                                               "simple coherence absolute tolerance": 0.01,
+                                               "simple coherence absolute tolerance": 0.04,
                                                                "coherence tolerance": 0.01
                                             },
                  "Gamma-Aminobutyric acid": {

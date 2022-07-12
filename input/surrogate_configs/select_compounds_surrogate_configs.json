@@ -351,14 +351,6 @@
                                                                             "Δcs_max": [
 ]
                                             },
-                             "L-Glutamine": {
-                                                                    "κ_λ lower bound": 0.5,
-                                               "radians surrogate sampling step size": 1,
-                                                                    "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05,
-                                                                            "Δcs_max": [
-]
-                                            },
                             "L-Tryptophan": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
@@ -575,7 +567,7 @@
                                                                             "Δcs_max": [
 ]
                                             },
-                "L-Glutamine - 2000 study": {
+                "L-Glutamine": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
