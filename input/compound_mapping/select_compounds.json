@@ -311,10 +311,14 @@
                                                     "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000015/simulation_1",
                                                    "file name": "bmse000015_beta.json"
                                                 },
-         "D-Glucose - 2000 study": {
+         "alpha-D-Glucose-brain": {
                                                       "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
-                                                     "file name": "brain_metabolite_Glucose.json"
+                                                     "file name": "brain_metabolite_alpha-glucose.json"
                                                   },
+            "beta-D-Glucose-brain": {
+                                                "notes": "https://pubmed.ncbi.nlm.nih.gov/10861994/",
+                                                "file name": "brain_metabolite_beta-glucose.json"
+                                             },
             "Tryptamine": {
                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000207/simulation_1",
                                                      "file name": "bmse000207_simulation_1.json"

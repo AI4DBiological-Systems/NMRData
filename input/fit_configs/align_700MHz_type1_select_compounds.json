@@ -1180,6 +1180,38 @@
                                                                               8
                                                                             ]
                                             },
+                          "Diethanolamine": {
+                                                  "maximum chemical shift": [
+                                                                              0.05,
+                                                                              0.05
+                                                                            ],
+                                                                    "λ_lb": [
+                                                                              0.7,
+                                                                              0.7
+                                                                            ],
+                                                                    "λ_ub": [
+                                                                              1.5,
+                                                                              1.5
+                                                                            ],
+                                                           "κs_β ordering": [
+                                                                              [
+                                                                                1,
+                                                                                2,
+                                                                                3,
+                                                                                4
+                                                                              ],
+                                                                              [
+                                                                                1,
+                                                                                2,
+                                                                                3,
+                                                                                4
+                                                                              ]
+                                                                            ],
+                                                 "κs_β degrees of freedom": [
+                                                                              4,
+                                                                              4
+                                                                            ]
+                                            },
                             "L-Tryptophan": {
                                                   "maximum chemical shift": [
                                                                               0.05,
@@ -1212,38 +1244,6 @@
                                                  "κs_β degrees of freedom": [
                                                                               4,
                                                                               3
-                                                                            ]
-                                            },
-                          "Diethanolamine": {
-                                                  "maximum chemical shift": [
-                                                                              0.05,
-                                                                              0.05
-                                                                            ],
-                                                                    "λ_lb": [
-                                                                              0.7,
-                                                                              0.7
-                                                                            ],
-                                                                    "λ_ub": [
-                                                                              1.5,
-                                                                              1.5
-                                                                            ],
-                                                           "κs_β ordering": [
-                                                                              [
-                                                                                1,
-                                                                                2,
-                                                                                3,
-                                                                                4
-                                                                              ],
-                                                                              [
-                                                                                1,
-                                                                                2,
-                                                                                3,
-                                                                                4
-                                                                              ]
-                                                                            ],
-                                                 "κs_β degrees of freedom": [
-                                                                              4,
-                                                                              4
                                                                             ]
                                             },
                                   "Purine": {
@@ -1300,6 +1300,29 @@
                                                  "κs_β degrees of freedom": [
                                                                               5,
                                                                               2
+                                                                            ]
+                                            },
+                             "L-Glutamine": {
+                                                  "maximum chemical shift": [
+                                                                              0.05
+                                                                            ],
+                                                                    "λ_lb": [
+                                                                              0.7
+                                                                            ],
+                                                                    "λ_ub": [
+                                                                              1.5
+                                                                            ],
+                                                           "κs_β ordering": [
+                                                                              [
+                                                                                1,
+                                                                                2,
+                                                                                3,
+                                                                                4,
+                                                                                5
+                                                                              ]
+                                                                            ],
+                                                 "κs_β degrees of freedom": [
+                                                                              5
                                                                             ]
                                             },
                 "L-Histidine - 2000 study": {
@@ -1878,29 +1901,6 @@
                                                                               3
                                                                             ]
                                             },
-                "L-Glutamine": {
-                                                  "maximum chemical shift": [
-                                                                              0.05
-                                                                            ],
-                                                                    "λ_lb": [
-                                                                              0.7
-                                                                            ],
-                                                                    "λ_ub": [
-                                                                              1.5
-                                                                            ],
-                                                           "κs_β ordering": [
-                                                                              [
-                                                                                1,
-                                                                                2,
-                                                                                3,
-                                                                                4,
-                                                                                5
-                                                                              ]
-                                                                            ],
-                                                 "κs_β degrees of freedom": [
-                                                                              5
-                                                                            ]
-                                            },
                  "Gamma-Aminobutyric acid": {
                                                   "maximum chemical shift": [
                                                                               0.05
@@ -2158,6 +2158,31 @@
                                                                               6
                                                                             ]
                                             },
+                   "alpha-D-Glucose-brain": {
+                                                  "maximum chemical shift": [
+                                                                              0.05
+                                                                            ],
+                                                                    "λ_lb": [
+                                                                              0.7
+                                                                            ],
+                                                                    "λ_ub": [
+                                                                              1.5
+                                                                            ],
+                                                           "κs_β ordering": [
+                                                                              [
+                                                                                1,
+                                                                                2,
+                                                                                3,
+                                                                                4,
+                                                                                5,
+                                                                                6,
+                                                                                7
+                                                                              ]
+                                                                            ],
+                                                 "κs_β degrees of freedom": [
+                                                                              7
+                                                                            ]
+                                            },
                                 "Caffeine": {
                                                   "maximum chemical shift": [
                                                                               0.05,
@@ -2396,6 +2421,31 @@
                                                                             ],
                                                  "κs_β degrees of freedom": [
                                                                               3
+                                                                            ]
+                                            },
+                    "beta-D-Glucose-brain": {
+                                                  "maximum chemical shift": [
+                                                                              0.05
+                                                                            ],
+                                                                    "λ_lb": [
+                                                                              0.7
+                                                                            ],
+                                                                    "λ_ub": [
+                                                                              1.5
+                                                                            ],
+                                                           "κs_β ordering": [
+                                                                              [
+                                                                                1,
+                                                                                2,
+                                                                                3,
+                                                                                4,
+                                                                                5,
+                                                                                6,
+                                                                                7
+                                                                              ]
+                                                                            ],
+                                                 "κs_β degrees of freedom": [
+                                                                              7
                                                                             ]
                                             },
                        "L-Lysine, 500 MHz": {

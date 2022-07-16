@@ -351,7 +351,7 @@
                                                                             "Δcs_max": [
 ]
                                             },
-                            "L-Tryptophan": {
+                          "Diethanolamine": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
@@ -359,7 +359,7 @@
                                                                             "Δcs_max": [
 ]
                                             },
-                          "Diethanolamine": {
+                            "L-Tryptophan": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
@@ -376,6 +376,14 @@
 ]
                                             },
                          "2-Phenylethanol": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                             "L-Glutamine": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
@@ -567,14 +575,6 @@
                                                                             "Δcs_max": [
 ]
                                             },
-                "L-Glutamine": {
-                                                                    "κ_λ lower bound": 0.5,
-                                               "radians surrogate sampling step size": 1,
-                                                                    "κ_λ upper bound": 2.5,
-                                                   "κ_λ surrogate sampling step size": 0.05,
-                                                                            "Δcs_max": [
-]
-                                            },
                  "Gamma-Aminobutyric acid": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
@@ -655,6 +655,14 @@
                                                                             "Δcs_max": [
 ]
                                             },
+                   "alpha-D-Glucose-brain": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
                                 "Caffeine": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
@@ -720,6 +728,14 @@
 ]
                                             },
                           "L-Serine - mod": {
+                                                                    "κ_λ lower bound": 0.5,
+                                               "radians surrogate sampling step size": 1,
+                                                                    "κ_λ upper bound": 2.5,
+                                                   "κ_λ surrogate sampling step size": 0.05,
+                                                                            "Δcs_max": [
+]
+                                            },
+                    "beta-D-Glucose-brain": {
                                                                     "κ_λ lower bound": 0.5,
                                                "radians surrogate sampling step size": 1,
                                                                     "κ_λ upper bound": 2.5,
