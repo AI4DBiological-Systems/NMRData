@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= milo
+$$ /home/milo/nmr/Citrulline/1/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2016-10-31 11:40:22.511 -0500>,<milo>,<fleckvieh>,<go4>,<TopSpin 3.5.5>,
+      <created by zg
+	started at 2016-10-31 11:39:36.240 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       13 A6 87 76 BB 80 FB A0 A4 A8 8E 81 E7 DF 70 44
+       data hash MD5: 32K
+       77 73 F7 A3 61 07 26 AC 88 9D 13 29 58 4C 19 80>)
+##END=
+
+$$ hash MD5
+$$ 88 80 B3 D1 88 A7 FA 43 5B 19 F9 39 65 E4 90 D8

@@ -1,98 +1,98 @@
 {
               "Dopamine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000909/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000909/simulation_1",
                                                      "file name": "bmse000909_simulation_1.json"
                                                   },
         "L-Cystine": {
-                                               "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000035/simulation_1",
+                                               "notes": "http://gissmo.bmrb.io/entry/bmse000035/simulation_1",
                                               "file name": "bmse000035_simulation_1.json"
                                            },
         "Adenosine": {
-                                               "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000061/simulation_1",
+                                               "notes": "http://gissmo.bmrb.io/entry/bmse000061/simulation_1",
                                               "file name": "bmse000061_simulation_1.json"
                                            },
          "Inosine, 500 MHz": {
-                                                "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000098/simulation_1",
+                                                "notes": "http://gissmo.bmrb.io/entry/bmse000098/simulation_1",
                                               "file name": "bmse000098_simulation_1.json"
                                            },
        "Inosine": {
-                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000978/simulation_1",
+                                              "notes": "http://gissmo.bmrb.io/entry/bmse000978/simulation_1",
                                             "file name": "bmse000978_simulation_1.json"
                                          },
         "Guanosine": {
-                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000091/simulation_1",
+                                              "notes": "http://gissmo.bmrb.io/entry/bmse000091/simulation_1",
                                             "file name": "bmse000091_simulation_1.json"
                                          },
         "2'-Deoxyinosine": {
-                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000942/simulation_1",
+                                              "notes": "http://gissmo.bmrb.io/entry/bmse000942/simulation_1",
                                             "file name": "bmse000942_simulation_1.json"
                                          },
         "2'-Deoxyguanosine": {
-                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000003/simulation_1",
+                                              "notes": "http://gissmo.bmrb.io/entry/bmse000003/simulation_1",
                                             "file name": "bmse000003_simulation_1.json"
                                          },
         "Uridine, 500 MHz": {
-                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000158/simulation_1",
+                                              "notes": "http://gissmo.bmrb.io/entry/bmse000158/simulation_1",
                                             "file name": "bmse000158_simulation_1.json"
                                          },
         "Uridine": {
-                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000864/simulation_1",
+                                              "notes": "http://gissmo.bmrb.io/entry/bmse000864/simulation_1",
                                             "file name": "bmse000864_simulation_1.json"
                                          },
         "Thymidine": {
-                                              "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000244/simulation_1",
+                                              "notes": "http://gissmo.bmrb.io/entry/bmse000244/simulation_1",
                                             "file name": "bmse000244_simulation_1.json"
                                          },
         "ATP, 500 MHz": {
-                                               "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000006/simulation_1",
+                                               "notes": "http://gissmo.bmrb.io/entry/bmse000006/simulation_1",
                                               "file name": "bmse000006_simulation_1.json"
                                            },
          "ATP": {
-         "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000854/simulation_1",
+         "notes": "http://gissmo.bmrb.io/entry/bmse000854/simulation_1",
          "file name": "bmse000854_simulation_1.json"
       },
          "AMP": {
-            "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000873/simulation_1",
+            "notes": "http://gissmo.bmrb.io/entry/bmse000873/simulation_1",
             "file name": "bmse000873_simulation_1.json"
          },
          "AMP, 500 MHz": {
-            "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000005/simulation_1",
+            "notes": "http://gissmo.bmrb.io/entry/bmse000005/simulation_1",
             "file name": "bmse000005_simulation_1.json"
          },
             "Agmatine": {
-               "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000936/simulation_1",
+               "notes": "http://gissmo.bmrb.io/entry/bmse000936/simulation_1",
                "file name": "bmse000936_simulation_1.json"
             },
             "Agmatine, 500 MHz": {
-               "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000063/simulation_1",
+               "notes": "http://gissmo.bmrb.io/entry/bmse000063/simulation_1",
                "file name": "bmse000063_simulation_1.json"
             },
           "L-Glutathione oxidized": {
-                                                 "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000906/simulation_1",
+                                                 "notes": "http://gissmo.bmrb.io/entry/bmse000906/simulation_1",
                                                 "file name": "bmse000906_simulation_1.json"
                                              },
          "L-Glutathione reduced": {
-                                                "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000185/simulation_1",
+                                                "notes": "http://gissmo.bmrb.io/entry/bmse000185/simulation_1",
                                                "file name": "bmse000185_simulation_1.json"
                                             },
           "L-Isoleucine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000041/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000041/simulation_1",
                                                      "file name": "bmse000041_simulation_1.json"
                                                   },
    "Phenylacetylglycine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000636/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000636/simulation_1",
                                                      "file name": "bmse000636_simulation_1.json"
                                                   },
                "Glycine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000977/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000977/simulation_1",
                                                      "file name": "bmse000977_simulation_1.json"
                                                   },
        "L-Aspartic acid": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000875/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000875/simulation_1",
                                                      "file name": "bmse000875_simulation_1.json"
                                                   },
                "Choline": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000953/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000953/simulation_1",
                                                      "file name": "bmse000953_simulation_1.json"
                                                   },
                "Choline - 2000 study": {
@@ -100,19 +100,19 @@
                                                      "file name": "brain_metabolite_Choline.json"
                                                   },
             "L-Arginine bmse000029": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000029/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000029/simulation_1",
                                                      "file name": "bmse000029_simulation_1.json"
                                                   },
                "Choline, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000285/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000285/simulation_1",
                                                      "file name": "bmse000285_simulation_1.json"
                                                   },
               "Glycerol, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000184/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000184/simulation_1",
                                                      "file name": "bmse000184_simulation_1.json"
                                                   },
               "L-Valine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000860/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000860/simulation_1",
                                                      "file name": "bmse000860_simulation_1.json"
                                                   },
               "L-Valine - 2000 study": {
@@ -120,27 +120,39 @@
                                                      "file name": "brain_metabolite_Valine.json"
                                                   },
                "Glycine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000089/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000089/simulation_1",
                                                      "file name": "bmse000089_simulation_1.json"
                                                   },
               "L-Lysine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000914/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000914/simulation_1",
                                                      "file name": "bmse000914_simulation_1.json"
                                                   },
            "Epinephrine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000316/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000316/simulation_1",
                                                      "file name": "bmse000316_simulation_1.json"
                                                   },
                    "DSS": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000795/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000795/simulation_1",
                                                      "file name": "bmse000795_simulation_1.json"
                                                   },
+                 "D2O, 4.7ppm": {
+                                                    "notes": "single resonance component",
+                                                   "file name": "D2O4.7ppm.json"
+                                                },
+                  "D2O, 4.8ppm": {
+                                                     "notes": "single resonance component",
+                                                    "file name": "D2O4.8ppm.json"
+                                                 },
+             "D2O, 4.9ppm": {
+                                               "notes": "single resonance component",
+                                              "file name": "D2O4.9ppm.json"
+                                           },
 "5-Hydroxy-L-tryptophan": {
-                                 "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000457/simulation_1",
+                                 "notes": "http://gissmo.bmrb.io/entry/bmse000457/simulation_1",
                                 "file name": "bmse000457_simulation_1.json"
                              },
            "L-Histidine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000976/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000976/simulation_1",
                                                      "file name": "bmse000976_simulation_1.json"
                                                   },
              "L-Histidine - 2000 study": {
@@ -148,127 +160,127 @@
                                                      "file name": "brain_metabolite_Histidine.json"
                                                   },
              "L-Proline": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000047/simulation_2",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000047/simulation_2",
                                                      "file name": "bmse000047_simulation_2.json"
                                                   },
               "Creatine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000078/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000078/simulation_1",
                                                      "file name": "bmse000078_simulation_1.json"
                                                   },
                  "HEPES, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000202/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000202/simulation_1",
                                                      "file name": "bmse000202_simulation_1.json"
                                                   },
              "DL-Serine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000222/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000222/simulation_1",
                                                      "file name": "bmse000222_simulation_1.json"
                                                   },
        "L-Phenylalanine bmse000921": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000921/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000921/simulation_1",
                                                      "file name": "bmse000921_simulation_1.json"
                                                   },
        "Triethanolamine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000379/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000379/simulation_1",
                                                      "file name": "bmse000379_simulation_1.json"
                                                   },
 "Succinic acid, 400 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000118/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000118/simulation_1",
                                                      "file name": "bmse000118_simulation_1.json"
                                                   },
               "L-Lysine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000043/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000043/simulation_1",
                                                      "file name": "bmse000043_simulation_1.json"
                                                   },
        "L-Glutamic acid": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000913/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000913/simulation_1",
                                                      "file name": "bmse000913_simulation_1.json"
                                                   },
             "Creatinine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000155/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000155/simulation_1",
                                                      "file name": "bmse000155_simulation_1.json"
                                                   },
           "L-Isoleucine, bad, missing J-coupling": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000866/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000866/simulation_1",
                                                      "file name": "bmse000866_simulation_1.json"
                                                   },
               "Methanol": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000294/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000294/simulation_1",
                                                      "file name": "bmse000294_simulation_1.json"
                                                   },
           "Myo-Inositol, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000103/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000103/simulation_1",
                                                      "file name": "bmse000103_simulation_1.json"
                                                   },
          "Acetylcholine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000434/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000434/simulation_1",
                                                      "file name": "bmse000434_simulation_1.json"
                                                   },
            "L-Threonine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000049/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000049/simulation_1",
                                                      "file name": "bmse000049_simulation_1.json"
                                                   },
             "L-Tyrosine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000051/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000051/simulation_1",
                                                      "file name": "bmse000051_simulation_1.json"
                                                   },
               "Dopamine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000933/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000933/simulation_1",
                                                      "file name": "bmse000933_simulation_1.json"
                                                   },
             "L-Arginine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000899/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000899/simulation_1",
                                                      "file name": "bmse000899_simulation_1.json"
                                                   },
               "Caffeine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000206/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000206/simulation_1",
                                                      "file name": "bmse000206_simulation_1.json"
                                                   },
             "DL-Alanine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000282/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000282/simulation_1",
                                                      "file name": "bmse000282_simulation_1.json"
                                                   },
             "L-Cysteine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000034/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000034/simulation_1",
                                                      "file name": "bmse000034_simulation_1.json"
                                                   },
           "L-Tryptophan": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000868/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000868/simulation_1",
                                                      "file name": "bmse000868_simulation_1.json"
                                                   },
           "Myo-Inositol": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000922/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000922/simulation_1",
                                                      "file name": "bmse000922_simulation_1.json"
                                                   },
             "L-Cysteine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000975/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000975/simulation_1",
                                                      "file name": "bmse000975_simulation_1.json"
                                                   },
             "L-Arginine bmse000711": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000711/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000711/simulation_1",
                                                      "file name": "bmse000711_simulation_1.json"
                                                   },
           "Myo-Inositol bmse000901": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000901/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000901/simulation_1",
                                                      "file name": "bmse000901_simulation_1.json"
                                                   },
              "Serotonin": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000757/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000757/simulation_1",
                                                      "file name": "bmse000757_simulation_1.json"
                                                   },
             "L-Arginine bmse000919": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000919/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000919/simulation_1",
                                                      "file name": "bmse000919_simulation_1.json"
                                                   },
      "3-Hydroxybutyrate, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000161/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000161/simulation_1",
                                                      "file name": "bmse000161_simulation_1.json"
                                                   },
                  "HEPES": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000877/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000877/simulation_1",
                                                      "file name": "bmse000877_simulation_1.json"
                                                   },
               "Glycerol": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000856/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000856/simulation_1",
                                                      "file name": "bmse000856_simulation_1.json"
                                                   },
            "L-Glutamine": {
@@ -280,35 +292,35 @@
                                                      "file name": "brain_metabolite_Glutamate.json"
                                                   },
      "3-Hydroxybutyrate": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000905/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000905/simulation_1",
                                                      "file name": "bmse000905_simulation_1.json"
                                                   },
            "L-Histidine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000039/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000039/simulation_1",
                                                      "file name": "bmse000039_simulation_1.json"
                                                   },
 "3,4-Dihydroxy-L-phenylalanine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000322/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000322/simulation_1",
                                                      "file name": "bmse000322_simulation_1.json"
                                                   },
         "Norepinephrine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000404/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000404/simulation_1",
                                                      "file name": "bmse000404_simulation_1.json"
                                                   },
             "Putrescine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000109/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000109/simulation_1",
                                                      "file name": "bmse000109_simulation_1.json"
                                                   },
          "D-(+)-Glucose": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000015/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000015/simulation_1",
                                                      "file name": "bmse000015_simulation_1.json"
                                                   },
         "alpha-D-Glucose": {
-                                                     "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000015/simulation_1",
+                                                     "notes": "http://gissmo.bmrb.io/entry/bmse000015/simulation_1",
                                                     "file name": "bmse000015_alpha.json"
                                                  },
        "beta-D-Glucose": {
-                                                    "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000015/simulation_1",
+                                                    "notes": "http://gissmo.bmrb.io/entry/bmse000015/simulation_1",
                                                    "file name": "bmse000015_beta.json"
                                                 },
          "alpha-D-Glucose-brain": {
@@ -320,59 +332,59 @@
                                                 "file name": "brain_metabolite_beta-glucose.json"
                                              },
             "Tryptamine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000207/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000207/simulation_1",
                                                      "file name": "bmse000207_simulation_1.json"
                                                   },
          "Succinic acid": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000968/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000968/simulation_1",
                                                      "file name": "bmse000968_simulation_1.json"
                                                   },
 "Putrescine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000862/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000862/simulation_1",
                                                      "file name": "bmse000862_simulation_1.json"
                                                   },
         "Diethanolamine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000371/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000371/simulation_1",
                                                      "file name": "bmse000371_simulation_1.json"
                                                   },
           "L-Kynurenine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000172/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000172/simulation_1",
                                                      "file name": "bmse000172_simulation_1.json"
                                                   },
           "L-Methionine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000044/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000044/simulation_1",
                                                      "file name": "bmse000044_simulation_1.json"
                                                   },
           "L-Asparagine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000030/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000030/simulation_1",
                                                      "file name": "bmse000030_simulation_1.json"
                                                   },
               "Creatine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000950/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000950/simulation_1",
                                                      "file name": "bmse000950_simulation_1.json"
                                                   },
            "L-Threonine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000859/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000859/simulation_1",
                                                      "file name": "bmse000859_simulation_1.json"
                                                   },
               "L-Valine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000052/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000052/simulation_1",
                                                      "file name": "bmse000052_simulation_1.json"
                                                   },
              "L-Alanine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000028/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000028/simulation_1",
                                                      "file name": "bmse000028_simulation_1.json"
                                                   },
               "beta-Alanine": {
-                                                       "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000967/simulation_1",
+                                                       "notes": "http://gissmo.bmrb.io/entry/bmse000967/simulation_1",
                                                       "file name": "bmse000967_simulation_1.json"
                                                    },
                 "Purine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000454/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000454/simulation_1",
                                                      "file name": "bmse000454_simulation_1.json"
                                                   },
               "L-Serine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000867/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000867/simulation_1",
                                                      "file name": "bmse000867_simulation_1.json"
                                                   },
               "L-Serine - 2000 study": {
@@ -384,75 +396,75 @@
                                                      "file name": "L-Serine_mod.json"
                                                   },
                 "Folate": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000299/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000299/simulation_1",
                                                      "file name": "bmse000299_simulation_1.json"
                                                   },
                "Ethanol": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000297/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000297/simulation_1",
                                                      "file name": "bmse000297_simulation_1.json"
                                                   },
              "L-Proline, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000047/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000047/simulation_1",
                                                      "file name": "bmse000047_simulation_1.json"
                                                   },
           "L-Tryptophan bmse000050": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000050/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000050/simulation_1",
                                                      "file name": "bmse000050_simulation_1.json"
                                                   },
              "L-Leucine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000042/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000042/simulation_1",
                                                      "file name": "bmse000042_simulation_1.json"
                                                   },
           "L-Asparagine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000912/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000912/simulation_1",
                                                      "file name": "bmse000912_simulation_1.json"
                                                   },
              "L-Proline, 600 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000947/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000947/simulation_1",
                                                      "file name": "bmse000947_simulation_1.json"
                                                   },
 "Gamma-Aminobutyric acid": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000871/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000871/simulation_1",
                                                      "file name": "bmse000871_simulation_1.json"
                                                   },
           "L-Methionine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000915/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000915/simulation_1",
                                                      "file name": "bmse000915_simulation_1.json"
                                                   },
      "N-Alpha-Acetyl-L-Lysine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000830/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000830/simulation_1",
                                                      "file name": "bmse000830_simulation_1.json"
                                                   },
        "L-Phenylalanine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000045/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000045/simulation_1",
                                                      "file name": "bmse000045_simulation_1.json"
                                                   },
       "Formiminoglycine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse001134/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse001134/simulation_1",
                                                      "file name": "bmse001134_simulation_1.json"
                                                   },
    "Phenylacetylglycine bmse000658": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000658/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000658/simulation_1",
                                                      "file name": "bmse000658_simulation_1.json"
                                                   },
        "2-Phenylethanol": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000659/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000659/simulation_1",
                                                      "file name": "bmse000659_simulation_1.json"
                                                   },
               "L-Serine, 500 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000048/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000048/simulation_1",
                                                      "file name": "bmse000048_simulation_1.json"
                                                   },
        "L-Phenylalanine": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000900/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000900/simulation_1",
                                                      "file name": "bmse000900_simulation_1.json"
                                                   },
          "Acetylcholine, 400 MHz": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000168/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000168/simulation_1",
                                                      "file name": "bmse000168_simulation_1.json"
                                                   },
      "L-(+) Lactic acid": {
-                                                      "notes": "http://gissmo.nmrfam.wisc.edu/entry/bmse000979/simulation_1",
+                                                      "notes": "http://gissmo.bmrb.io/entry/bmse000979/simulation_1",
                                                      "file name": "bmse000979_simulation_1.json"
                                                   }
 }

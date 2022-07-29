@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 3	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= milo
+$$ 2016-10-31 11:39:29.325 -0500  milo@fleckvieh
+$$ /home/milo/nmr/Citrulline/1/pdata/1/outd
+$$ process /opt/topspin3.5pl5/prog/mod/edparproc
+##$CURPLOT= <pÉF	¤ÉF	°ÉF	>
+##$CURPRIN= <$1#1#0#1#1#1#1#1#0#-1#-1#1#-1>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=
